@@ -1,0 +1,19 @@
+﻿<Window x:Class="TalanaSera.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TalanaSera"
+        mc:Ignorable="d"
+        Title="login" Height="450" Width="400"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid  Background="#F4FFE3">
+        <Button x:Name="giris" Click="giris_Click" Background="#84AC87" Content="Giriş Yap" HorizontalAlignment="Left" Margin="152,290,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="git" Click="git_Click" Content="Özelleştir" Background="#84AC87" HorizontalAlignment="Left" Margin="140,33,0,0" VerticalAlignment="Top" Width="109"/>
+        <Image x:Name="profilResim" HorizontalAlignment="Left" Height="100" Margin="141,101,0,0" VerticalAlignment="Top" Width="100"/>
+        <PasswordBox x:Name="sifre"  HorizontalAlignment="Left" Margin="139,251,0,0" VerticalAlignment="Top" Width="107"/>
+        <CheckBox x:Name="cek" Checked="cek_Checked"  Unchecked="cek_Checked" HorizontalAlignment="Left" Margin="273,261,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="gizlisifre" Visibility="Visible" FontWeight="ExtraBold" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Margin="0,340,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

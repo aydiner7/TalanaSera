@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:abstractions="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             mc:Ignorable="d"
+             Visual="Material"
+             x:Class="Sera.MainPage">
+    <AbsoluteLayout>
+        
+        <Image AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All" Source="resim.jpg" Aspect="AspectFill" Opacity="0.5"/>
+        <Grid AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="6*"/>
+            </Grid.RowDefinitions>
+            <Frame CornerRadius="100" WidthRequest="150" HeightRequest="150" Grid.Row="0" VerticalOptions="Center" HorizontalOptions="Center" Padding="10">
+
+                <abstractions:CircleImage  Source="arda.jpg" Aspect="Fill"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HeightRequest="150" WidthRequest="150" Opacity="1" />
+            </Frame>
+            <Label Grid.Row="0" Text="HASAN AYDINER" VerticalOptions="End" HorizontalOptions="Center" FontSize="27" FontAttributes="Bold"/>
+          
+            <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Grid.Row="1" Margin="60,0">
+                <Frame BackgroundColor="White" Padding="20" CornerRadius="15" Opacity="0.5">
+                    <StackLayout>
+                        <Entry x:Name="sifrEntry" IsPassword="True" Keyboard="Numeric" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HorizontalTextAlignment="Center" Placeholder="Şifre Giriniz" BackgroundColor="#eee" Opacity="1" WidthRequest="250"/>
+                        <Button Text="Giriş" Clicked="Button_Clicked" CornerRadius="15" Margin="0,15" Padding="8" Opacity="1"></Button>
+                    </StackLayout>  
+                </Frame>
+                <forms:AnimationView 
+	                    Animation="deneme.json"
+	                    Loop="True" 
+	                    AutoPlay="True"
+                        HeightRequest="100"
+                        Opacity="0.7" />
+                
+            </StackLayout>
+        </Grid>
+        <Grid x:Name="cerceve" IsVisible="False" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All" Opacity="0.8" BackgroundColor="Black">
+            <forms:AnimationView
+                    x:Name="anim"
+                    Animation="profil.json"
+                    Loop="True"
+                    AutoPlay="False"/>
+        </Grid>
+    </AbsoluteLayout>
+
+</ContentPage>

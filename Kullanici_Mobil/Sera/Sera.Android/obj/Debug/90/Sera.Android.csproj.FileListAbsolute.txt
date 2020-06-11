@@ -1,0 +1,1135 @@
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\bin\Debug\Sera.Android.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\bin\Debug\Sera.Android.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\bin\Debug\com.companyname.sera.apk
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\bin\Debug\com.companyname.sera-Signed.apk
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\bin\Debug\Sera.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\bin\Debug\Sera.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\build.props
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\adb.props
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.csprojAssemblyReference.cache
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res.flag
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\R.txt
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\R.cs.flag
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\XamlC.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.csproj.CopyComplete
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\com.companyname.sera.apk
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\uploadflags.txt
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.Android.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.Android.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\static.flag
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\buildid.txt
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\companyname\sera\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\resim.jpg
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\arda.jpg
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\ImageCircle.Forms.Plugin.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Material.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Material.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\sera.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\sera2.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\profil.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\bildirim.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\domates.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\biber.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\havuc.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kiraz.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\cilek.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\muz.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\elma.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\armut.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kivi.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\karpuz.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\portokal.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Forms.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Forms.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\arkaplan.jpg
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\panelarkaplan.jpg
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\ustplan.jpg
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\greenhouse.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\ust2.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\cizgi.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kalkan.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kalkan2.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\farmhouse.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Common.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Droid.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Forms.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Forms.Droid.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\ileri.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari22.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari32.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari33.png
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Android.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Android.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\LottieListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\LottieOnCompositionLoadedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\OnCompositionLoadedListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\PerformanceTracker_FrameListenerImplementor.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\airbnb\lottie\LottieAnimationView_ImageAssetDelegateImpl.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\airbnb\lottie\LottieComposition$Factory_ActionCompositionLoaded.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\airbnb\lottie\R.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\bin\Debug\com.companyname.sera-Signed.aab
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\resourcecache.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\EC16DA0D18A5A2BF.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\0007288E222B841B.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\CCCB99D51C2BA353.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\B84FD17A334C63E2.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\30C70FE8184C5992.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\B7BA53A0DB6ACF31.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\D07786D6C36E3EB5.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\48EEE561BF6E7025.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\8422543A816E576D.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\C0663BF3946E4A55.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\2430E88380826299.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\E8FC59D8BE8245D1.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\ACB83611AB8258E9.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\342155A6D7821679.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\F8EDE4FDE9823131.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\EC16DA0D18A5A2BF.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\0007288E222B841B.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\CCCB99D51C2BA353.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\B84FD17A334C63E2.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\30C70FE8184C5992.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\B7BA53A0DB6ACF31.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\D07786D6C36E3EB5.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\48EEE561BF6E7025.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\8422543A816E576D.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\C0663BF3946E4A55.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\2430E88380826299.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\E8FC59D8BE8245D1.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\ACB83611AB8258E9.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\342155A6D7821679.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\flata\F8EDE4FDE9823131.flata
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\com.companyname.sera.aab
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\com.companyname.sera.apks
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\__environment__.txt
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc640abd7300daed08b8\MainActivity.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialActivityIndicatorRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialButtonRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialCheckBoxRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialContextThemeWrapper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialDatePickerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialEditorRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialEntryRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditText.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditTextBase.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayout.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayoutBase.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFrameRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialPickerEditText.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialPickerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialPickerTextInputLayout.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialProgressBarRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialSliderRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialStepperRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialTimePickerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewwOnGlobalLayoutListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64cd8b23a5a735fc0f\AnimationViewRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64cd8b23a5a735fc0f\AnimationViewRenderer_ClickListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64cd8b23a5a735fc0f\AnimatorListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc6436929b8ad3b40f6f\ImageCircleRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64d528ded20b131891\RangeSliderControl.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647d6fdacd6da56749\RangeSliderRenderer.java
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\bin\Debug\Sera.Android.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\bin\Debug\Sera.Android.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\bin\Debug\com.companyname.sera.apk
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\bin\Debug\com.companyname.sera-Signed.aab
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\bin\Debug\com.companyname.sera-Signed.apk
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\bin\Debug\Sera.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\bin\Debug\Sera.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\build.props
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\adb.props
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.csprojAssemblyReference.cache
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\resourcecache.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res.flag
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\5709421B00944971.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\B589092B4DADF774.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\7945B87073ADD03C.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\0DC1F0DF5CCA108D.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\85492E4D77CA2AFD.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\02347205B4ECBC5E.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\65F9A773ACE84DDA.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\FD60C4C4D0E8034A.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\31AC759FEEE82402.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\75E81A56FBE8393A.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\91BEC926EF0411F6.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\5D72787DD10436BE.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\193617B4C4042B86.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\81AF7403B8046516.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\4D63C5588604425E.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\5709421B00944971.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\B589092B4DADF774.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\7945B87073ADD03C.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\0DC1F0DF5CCA108D.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\85492E4D77CA2AFD.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\02347205B4ECBC5E.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\65F9A773ACE84DDA.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\FD60C4C4D0E8034A.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\31AC759FEEE82402.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\75E81A56FBE8393A.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\91BEC926EF0411F6.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\5D72787DD10436BE.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\193617B4C4042B86.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\81AF7403B8046516.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\4D63C5588604425E.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\R.txt
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\R.cs.flag
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.csproj.CopyComplete
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\Sera.Android.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\com.companyname.sera.apk
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\com.companyname.sera.aab
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\com.companyname.sera.apks
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\arda.jpg
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\resim.jpg
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\sera.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\sera2.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\profil.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\bildirim.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\domates.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\biber.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\havuc.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kiraz.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\cilek.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\muz.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\elma.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\armut.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kivi.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\karpuz.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\portokal.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\arkaplan.jpg
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\panelarkaplan.jpg
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\ustplan.jpg
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\greenhouse.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\ust2.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\cizgi.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kalkan.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\kalkan2.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\farmhouse.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\ileri.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari22.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari32.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\uyari33.png
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\ImageCircle.Forms.Plugin.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Android.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Android.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Forms.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Lottie.Forms.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.Android.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.Android.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Sera.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Material.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Material.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Common.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Droid.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Forms.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\Xamarin.RangeSlider.Forms.Droid.dll
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\__environment__.txt
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\static.flag
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\buildid.txt
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\LottieListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\LottieOnCompositionLoadedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\OnCompositionLoadedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\com\airbnb\lottie\PerformanceTracker_FrameListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialActivityIndicatorRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialButtonRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialCheckBoxRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialContextThemeWrapper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialDatePickerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialEditorRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialEntryRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditText.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditTextBase.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayout.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayoutBase.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialFrameRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialPickerEditText.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialPickerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialPickerTextInputLayout.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialProgressBarRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialSliderRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialStepperRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647c4c06b10f3352ff\MaterialTimePickerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewwOnGlobalLayoutListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc6436929b8ad3b40f6f\ImageCircleRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc640abd7300daed08b8\MainActivity.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\airbnb\lottie\LottieAnimationView_ImageAssetDelegateImpl.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\airbnb\lottie\LottieComposition$Factory_ActionCompositionLoaded.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\airbnb\lottie\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64d528ded20b131891\RangeSliderControl.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64cd8b23a5a735fc0f\AnimationViewRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64cd8b23a5a735fc0f\AnimationViewRenderer_ClickListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64cd8b23a5a735fc0f\AnimatorListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\crc647d6fdacd6da56749\RangeSliderRenderer.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\src\com\companyname\sera\R.java
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Omer\Downloads\Sera (1)\Sera\Sera\Sera.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera.Android\obj\Debug\90\res\drawable\bossera.png

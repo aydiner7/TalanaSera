@@ -1,0 +1,23 @@
+﻿<Window x:Class="TalanaSera.SunucuBilgi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TalanaSera"
+        mc:Ignorable="d"
+        Title="Sunucu Bilgileri" Height="450" Width="600"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow">
+    <Grid Background="#F4FFE3">
+        <TextBox x:Name="sAdi" Text="localhost" HorizontalAlignment="Left" Height="23" Margin="284,49,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="kAdi" Text="Talana" HorizontalAlignment="Left" Height="23" Margin="284,99,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="kSifre" Password="Talana" HorizontalAlignment="Left" Margin="284,154,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="kKodu" Text="123" HorizontalAlignment="Left" Height="23" Margin="284,214,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="182,59,0,0" FontWeight="UltraBold" Foreground="#B1B1B1" TextWrapping="Wrap" Text="Sunucu Adı" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="182,109,0,0" FontWeight="UltraBold" Foreground="#B1B1B1" TextWrapping="Wrap" Text="Kullanıcı Adı" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="182,163,0,0" FontWeight="UltraBold" Foreground="#B1B1B1" TextWrapping="Wrap" Text="Kullanıcı Şifresi" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="182,224,0,0" FontWeight="UltraBold" Foreground="#B1B1B1" TextWrapping="Wrap" Text="Kullanıcı Kodu" VerticalAlignment="Top"/>
+        <Button x:Name="kaydet" Background="#84AC87" Click="kaydet_Click" Content="Kaydet" HorizontalAlignment="Left" Margin="317,278,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="test" Background="#84AC87" Click="test_Click" Content="Test Et" HorizontalAlignment="Left" Margin="200,278,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

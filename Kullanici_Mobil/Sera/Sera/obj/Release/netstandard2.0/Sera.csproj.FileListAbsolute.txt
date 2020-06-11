@@ -1,0 +1,14 @@
+C:\Users\playr\source\repos\Sera\Sera\Sera\bin\Release\netstandard2.0\Sera.deps.json
+C:\Users\playr\source\repos\Sera\Sera\Sera\bin\Release\netstandard2.0\Sera.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera\bin\Release\netstandard2.0\ref\Sera.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera\bin\Release\netstandard2.0\Sera.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\Sera.AssemblyInfoInputs.cache
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\Sera.AssemblyInfo.cs
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\Sera.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\ref\Sera.dll
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\Sera.pdb
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\Sera.csprojAssemblyReference.cache
+C:\Users\playr\source\repos\Sera\Sera\Sera\obj\Release\netstandard2.0\Anasayfa.xaml.g.cs

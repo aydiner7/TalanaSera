@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Sera.SeraIcerik">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Frame BorderColor="#1c0f45" Margin="45,10,45,5" HeightRequest="70" CornerRadius="15" BackgroundColor="#e0eeee">
+                <StackLayout>
+                    <Label Text="Sicaklik" IsVisible="False"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="sicaklik.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label x:Name="dDerece" Text="↑ 27 °C" Grid.Column="1" VerticalOptions="Start" Margin="0,10,0,0" HorizontalOptions="Start" TextColor="#000080" FontSize="Medium" FontAttributes="Bold"/>
+                        <Label Text="Sera İç Sıcaklığı" Grid.Column="1" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,10" />
+                        <Image Source="ileri.png" Grid.Column="1" HorizontalOptions="End" VerticalOptions="Center" Aspect="AspectFill" Opacity="0.4" HeightRequest="32" WidthRequest="32"/>
+
+                    </Grid>
+                </StackLayout>
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Frame.GestureRecognizers>
+               
+            </Frame>
+
+            <Frame BorderColor="#1c0f45" Margin="45,5" HeightRequest="70" CornerRadius="15" BackgroundColor="#e0eeee">
+                <StackLayout>
+                    <Label Text="Hava" IsVisible="False"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="havalandirma2.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label x:Name="dHava" Text="↓ 147 (PM2.5)" Grid.Column="1" VerticalOptions="Start" Margin="0,10,0,0" HorizontalOptions="Start" TextColor="#000080" FontSize="Medium" FontAttributes="Bold"/>
+                        <Label Text="Sera İç Hava Kalitesi" Grid.Column="1" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,10" />
+                        <Image Source="ileri.png" Grid.Column="1" HorizontalOptions="End" VerticalOptions="Center" Aspect="AspectFill" Opacity="0.4" HeightRequest="32" WidthRequest="32"/>
+
+                    </Grid>
+                </StackLayout>
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Frame.GestureRecognizers>
+                
+            </Frame>
+
+            <Frame BorderColor="#1c0f45" Margin="45,5" HeightRequest="70" CornerRadius="15" BackgroundColor="#e0eeee">
+                <StackLayout>
+                    <Label Text="Nem" IsVisible="False"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="nem2.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label x:Name="dNem" Text="↓ 25% " Grid.Column="1" VerticalOptions="Start" Margin="0,10,0,0" HorizontalOptions="Start" TextColor="#000080" FontSize="Medium" FontAttributes="Bold"/>
+                        <Label Text="Toprak Nem Oranı" Grid.Column="1" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,10" />
+                        <Image Source="ileri.png" Grid.Column="1" HorizontalOptions="End" VerticalOptions="Center" Aspect="AspectFill" Opacity="0.4" HeightRequest="32" WidthRequest="32"/>
+
+                    </Grid>
+                </StackLayout>
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Frame.GestureRecognizers>
+            </Frame>
+
+            <Frame BorderColor="#1c0f45" Margin="45,5" HeightRequest="70" CornerRadius="15" BackgroundColor="#e0eeee">
+                <StackLayout>
+                    <Label Text="Isik" IsVisible="False"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="isik.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label x:Name="dIsik" Text="↑ 481 CD" Grid.Column="1" VerticalOptions="Start" Margin="0,10,0,0" HorizontalOptions="Start" TextColor="#000080" FontSize="Medium" FontAttributes="Bold"/>
+                        <Label Text="Işık Seviyesi" Grid.Column="1" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,10" />
+                        <Image Source="ileri.png" Grid.Column="1" HorizontalOptions="End" VerticalOptions="Center" Aspect="AspectFill" Opacity="0.4" HeightRequest="32" WidthRequest="32"/>
+
+                    </Grid>
+                </StackLayout>
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Frame.GestureRecognizers>
+            </Frame>
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

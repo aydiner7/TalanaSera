@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Sera.Bildirim">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout x:Name="erisim">
+
+                <Frame BorderColor="#cdc9c9" Margin="0,10,0,0" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="90"/>
+                    </Grid.ColumnDefinitions>
+                    <forms:AnimationView
+                            Opacity="1"
+                            Animation="sicak.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                    <Label Text="Arka Bahçe Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                    <Label Text="Isı Kaybı" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="04:21 → 11 °C" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="04:53 → 19 °C" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                </Grid>
+            </Frame>
+
+            <Frame BorderColor="#cdc9c9" Margin="0,1" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="90"/>
+                    </Grid.ColumnDefinitions>
+                    <forms:AnimationView
+                            Opacity="1"
+                            Animation="sulama.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                    <Label Text="Kiralık Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                    <Label Text="Su Kaybı" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="01:36 → 17 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="01:44 → 21 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                </Grid>
+            </Frame>
+
+            <Frame BorderColor="#cdc9c9" Margin="0,1" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="90"/>
+                    </Grid.ColumnDefinitions>
+                    <forms:AnimationView
+                            Opacity="1"
+                            Animation="soguk.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                    <Label Text="Sarı Kum Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                    <Label Text="Isı Artışı" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="13:25 → 32 °C" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="14:02 → 27 °C" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                </Grid>
+            </Frame>
+
+            <Frame BorderColor="#cdc9c9" Margin="0,1" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="90"/>
+                    </Grid.ColumnDefinitions>
+                    <forms:AnimationView
+                            Opacity="1"
+                            Animation="fan.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                    <Label Text="Sarı Kum Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                    <Label Text="Hava Kirliliği" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="01:57 → 77" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                    <Label Text="02:13 → 121" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                </Grid>
+            </Frame>
+
+                <Frame BorderColor="#cdc9c9" Margin="0,1" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="90"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="isik.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label Text="Küçük Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                        <Label Text="Işık Kaybı" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="20:09 → 134" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="20:44 → 403" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                    </Grid>
+                </Frame>
+                <Frame BorderColor="#cdc9c9" Margin="0,1" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="90"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="sulama.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label Text="Kiralık Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                        <Label Text="Su Kaybı" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="01:36 → 17 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="01:44 → 21 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                    </Grid>
+                </Frame>
+                <Frame BorderColor="#cdc9c9" Margin="0,1" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="90"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="sulama.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label Text="Kiralık Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                        <Label Text="Su Kaybı" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="01:36 → 17 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="01:44 → 21 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                    </Grid>
+                </Frame>
+                <Frame BorderColor="#cdc9c9" Margin="0,1" HeightRequest="45" CornerRadius="10" BackgroundColor="#eee5de">
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="90"/>
+                        </Grid.ColumnDefinitions>
+                        <forms:AnimationView
+                            Opacity="1"
+                            Animation="sulama.json"
+                            AutoPlay="True"
+                            Loop="True"
+                            VerticalOptions="FillAndExpand"
+                            HorizontalOptions="FillAndExpand"
+                            HeightRequest="100"/>
+                        <Label Text="Kiralık Seram" Grid.Column="1" VerticalOptions="Start" Margin="0,0,0,15" HorizontalOptions="Center" TextColor="#36648b" FontSize="17" FontAttributes="Bold"/>
+                        <Label Text="Su Kaybı" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="01:36 → 17 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,0,0,0" TextColor="Red" />
+                        <Label Text="01:44 → 21 %" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="End" Margin="0,0,0,0" />
+
+                    </Grid>
+                </Frame>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

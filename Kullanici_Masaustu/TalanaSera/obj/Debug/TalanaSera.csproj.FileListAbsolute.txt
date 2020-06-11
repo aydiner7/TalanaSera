@@ -1,0 +1,550 @@
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\TalanaSera.exe.config
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\TalanaSera.exe
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\TalanaSera.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.csprojAssemblyReference.cache
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\MainWindow.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\App.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera_MarkupCompile.cache
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera_MarkupCompile.lref
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\MainWindow.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.g.resources
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.Properties.Resources.resources
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.csproj.GenerateResource.cache
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.exe
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\MenuItem.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\MenuItem.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\DotNetZip.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\LottieSharp.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Desktop.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.DXGI.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\DotNetZip.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Desktop.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.DXGI.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.csproj.CopyComplete
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\DotNetZip.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Seralarim.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Seralarim.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\profil.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\profil.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraListe.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraListe.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraBilgi.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraBilgileri.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraBilgi.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraBilgileri.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Bildirimlerim.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Bildirimlerim.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\BildirimDenetleyicim.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\BildirimDenetleyicim.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraAyar.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SeraAyar.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Grafik.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Grafik.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\LiveCharts.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\LiveCharts.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\LiveCharts.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MaterialDesignColors.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MaterialDesignColors.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\App.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\AnalizDenetleyicim.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\AnalizDenetleyicim.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\TalanaSera.exe.config
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\netstandard.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.AppContext.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Collections.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Collections.Specialized.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.ComponentModel.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Console.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Data.Common.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Globalization.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.Compression.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.FileSystem.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.Pipes.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Linq.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Linq.Expressions.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Linq.Parallel.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Linq.Queryable.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.Http.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.NameResolution.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.Ping.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.Requests.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.Security.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.Sockets.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Net.WebSockets.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.ObjectModel.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Reflection.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Resources.Reader.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Resources.Writer.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.Handles.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.Claims.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.Principal.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Security.SecureString.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Text.Encoding.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.Tasks.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.Thread.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.Timer.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Xml.XDocument.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Xml.XPath.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\ControlzEx.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\DynamicData.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Microsoft.Reactive.Testing.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\ReactiveUI.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\ReactiveUI.Testing.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Splat.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Reactive.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.ValueTuple.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\ControlzEx.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\DynamicData.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Microsoft.Reactive.Testing.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\ReactiveUI.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\ReactiveUI.Testing.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Splat.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Reactive.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\System.ValueTuple.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Syncfusion.SfProgressBar.WPF.dll
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\bin\Debug\Syncfusion.SfProgressBar.WPF.xml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\deneme.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\deneme.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Giris.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\Giris.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\login.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\login.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SunucuBilgi.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\SunucuBilgi.baml
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\UrunDik.g.cs
+C:\Users\playr\source\repos\TalanaSera\TalanaSera\obj\Debug\UrunDik.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\TalanaSera.exe.config
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\TalanaSera.exe
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\TalanaSera.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\netstandard.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.AppContext.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Collections.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Collections.Specialized.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.ComponentModel.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Console.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Data.Common.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Globalization.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.Compression.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.FileSystem.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.Pipes.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Linq.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Linq.Expressions.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Linq.Parallel.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Linq.Queryable.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.Http.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.NameResolution.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.Ping.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.Requests.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.Security.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.Sockets.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Net.WebSockets.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.ObjectModel.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Reflection.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Resources.Reader.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Resources.Writer.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.Handles.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.Claims.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.Principal.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Security.SecureString.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Text.Encoding.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.Tasks.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.Thread.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.Timer.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Xml.XDocument.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Xml.XPath.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\ControlzEx.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\DotNetZip.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\DynamicData.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\LiveCharts.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\LottieSharp.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MaterialDesignColors.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Microsoft.Reactive.Testing.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\ReactiveUI.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\ReactiveUI.Testing.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Desktop.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.DXGI.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Splat.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Syncfusion.SfProgressBar.WPF.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Reactive.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.ValueTuple.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\ControlzEx.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\DotNetZip.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\DotNetZip.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\DynamicData.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\LiveCharts.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\LiveCharts.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MaterialDesignColors.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Microsoft.Reactive.Testing.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\ReactiveUI.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\ReactiveUI.Testing.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Desktop.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.DXGI.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Splat.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\Syncfusion.SfProgressBar.WPF.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Reactive.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\bin\Debug\System.ValueTuple.xml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.csprojAssemblyReference.cache
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.exe.config
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\AnalizDenetleyicim.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\BildirimDenetleyicim.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Bildirimlerim.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\deneme.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Giris.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Grafik.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\login.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\MainWindow.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\MenuItem.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\profil.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraAyar.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraBilgi.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraBilgileri.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Seralarim.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraListe.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SunucuBilgi.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\UrunDik.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\App.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera_MarkupCompile.cache
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera_MarkupCompile.lref
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\App.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\AnalizDenetleyicim.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\BildirimDenetleyicim.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Bildirimlerim.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\deneme.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Giris.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Grafik.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\login.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\MainWindow.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\MenuItem.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\profil.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraAyar.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraBilgi.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraBilgileri.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\Seralarim.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SeraListe.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\SunucuBilgi.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\UrunDik.baml
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.g.resources
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.Properties.Resources.resources
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.csproj.GenerateResource.cache
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.csproj.CopyComplete
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.exe
+C:\Users\playr\OneDrive\Masaüstü\Talana Son Durum\Kullanici_Masaustu\TalanaSera\obj\Debug\TalanaSera.pdb

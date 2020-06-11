@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TalanaModelStoreContainer" CdmEntityContainer="TalanaEntities">
+    <EntitySetMapping Name="BildirimDurum">
+      <EntityTypeMapping TypeName="TalanaModel.BildirimDurum">
+        <MappingFragment StoreEntitySet="BildirimDurum">
+          <ScalarProperty Name="Yeni_Olay" ColumnName="Yeni_Olay" />
+          <ScalarProperty Name="Eski_Olay" ColumnName="Eski_Olay" />
+          <ScalarProperty Name="Bitis_Saat" ColumnName="Bitis_Saat" />
+          <ScalarProperty Name="Baslangic_Saat" ColumnName="Baslangic_Saat" />
+          <ScalarProperty Name="Resim" ColumnName="Resim" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Sera_Adi" ColumnName="Sera_Adi" />
+          <ScalarProperty Name="Olay_Adi" ColumnName="Olay_Adi" />
+          <ScalarProperty Name="Bildirim_ID" ColumnName="Bildirim_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DisOrtam">
+      <EntityTypeMapping TypeName="TalanaModel.DisOrtam">
+        <MappingFragment StoreEntitySet="DisOrtam">
+          <ScalarProperty Name="DisOrtam_Tarih" ColumnName="DisOrtam_Tarih" />
+          <ScalarProperty Name="DisOrtam_Aktif" ColumnName="DisOrtam_Aktif" />
+          <ScalarProperty Name="DisOrtam_Ad" ColumnName="DisOrtam_Ad" />
+          <ScalarProperty Name="DisOrtam_ID" ColumnName="DisOrtam_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DisOrtamLog">
+      <EntityTypeMapping TypeName="TalanaModel.DisOrtamLog">
+        <MappingFragment StoreEntitySet="DisOrtamLog">
+          <ScalarProperty Name="DisOrtamLog_Tarih" ColumnName="DisOrtamLog_Tarih" />
+          <ScalarProperty Name="DisOrtam_RuzgarDeger" ColumnName="DisOrtam_RuzgarDeger" />
+          <ScalarProperty Name="DisOrtamLog_NemAkim" ColumnName="DisOrtamLog_NemAkim" />
+          <ScalarProperty Name="DisOrtamLog_NemDeger" ColumnName="DisOrtamLog_NemDeger" />
+          <ScalarProperty Name="DisOrtamLog_SicaklikAkim" ColumnName="DisOrtamLog_SicaklikAkim" />
+          <ScalarProperty Name="DisOrtamLog_SicaklikDeger" ColumnName="DisOrtamLog_SicaklikDeger" />
+          <ScalarProperty Name="DisOrtamLog_YagmurAkim" ColumnName="DisOrtamLog_YagmurAkim" />
+          <ScalarProperty Name="DisOrtamLog_YagmurDeger" ColumnName="DisOrtamLog_YagmurDeger" />
+          <ScalarProperty Name="DisOrtam_ID" ColumnName="DisOrtam_ID" />
+          <ScalarProperty Name="DisOrtamLog_ID" ColumnName="DisOrtamLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DisOrtamSera">
+      <EntityTypeMapping TypeName="TalanaModel.DisOrtamSera">
+        <MappingFragment StoreEntitySet="DisOrtamSera">
+          <ScalarProperty Name="DisOrtamSera_Tarih" ColumnName="DisOrtamSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="DisOrtam_ID" ColumnName="DisOrtam_ID" />
+          <ScalarProperty Name="DisOrtamSera_ID" ColumnName="DisOrtamSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fan">
+      <EntityTypeMapping TypeName="TalanaModel.Fan">
+        <MappingFragment StoreEntitySet="Fan">
+          <ScalarProperty Name="Fan_Tarih" ColumnName="Fan_Tarih" />
+          <ScalarProperty Name="Fan_Aktif" ColumnName="Fan_Aktif" />
+          <ScalarProperty Name="Fan_Ad" ColumnName="Fan_Ad" />
+          <ScalarProperty Name="Fan_ID" ColumnName="Fan_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FanLog">
+      <EntityTypeMapping TypeName="TalanaModel.FanLog">
+        <MappingFragment StoreEntitySet="FanLog">
+          <ScalarProperty Name="FanLog_Tarih" ColumnName="FanLog_Tarih" />
+          <ScalarProperty Name="FanLog_SicaklikAkim" ColumnName="FanLog_SicaklikAkim" />
+          <ScalarProperty Name="FanLog_SicaklikDeger" ColumnName="FanLog_SicaklikDeger" />
+          <ScalarProperty Name="FanLog_IsiAkim" ColumnName="FanLog_IsiAkim" />
+          <ScalarProperty Name="FanLog_IsıPwmDeger" ColumnName="FanLog_IsıPwmDeger" />
+          <ScalarProperty Name="FanLog_FanAkim" ColumnName="FanLog_FanAkim" />
+          <ScalarProperty Name="FanLog_PwmDeger" ColumnName="FanLog_PwmDeger" />
+          <ScalarProperty Name="Fan_ID" ColumnName="Fan_ID" />
+          <ScalarProperty Name="FanLog_ID" ColumnName="FanLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FanSera">
+      <EntityTypeMapping TypeName="TalanaModel.FanSera">
+        <MappingFragment StoreEntitySet="FanSera">
+          <ScalarProperty Name="FanSera_Tarih" ColumnName="FanSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="Fan_ID" ColumnName="Fan_ID" />
+          <ScalarProperty Name="FanSera_ID" ColumnName="FanSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HavaKalite">
+      <EntityTypeMapping TypeName="TalanaModel.HavaKalite">
+        <MappingFragment StoreEntitySet="HavaKalite">
+          <ScalarProperty Name="HavaKalite_Tarih" ColumnName="HavaKalite_Tarih" />
+          <ScalarProperty Name="HavaKalite_Aktif" ColumnName="HavaKalite_Aktif" />
+          <ScalarProperty Name="HavaKalite_Ad" ColumnName="HavaKalite_Ad" />
+          <ScalarProperty Name="HavaKalite_ID" ColumnName="HavaKalite_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HavaKaliteLog">
+      <EntityTypeMapping TypeName="TalanaModel.HavaKaliteLog">
+        <MappingFragment StoreEntitySet="HavaKaliteLog">
+          <ScalarProperty Name="HavaKaliteLog_Tarih" ColumnName="HavaKaliteLog_Tarih" />
+          <ScalarProperty Name="HavaKaliteLog_Akim" ColumnName="HavaKaliteLog_Akim" />
+          <ScalarProperty Name="HavaKaliteLog_Deger" ColumnName="HavaKaliteLog_Deger" />
+          <ScalarProperty Name="HavaKalite_ID" ColumnName="HavaKalite_ID" />
+          <ScalarProperty Name="HavaKaliteLog_ID" ColumnName="HavaKaliteLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HavaKaliteSera">
+      <EntityTypeMapping TypeName="TalanaModel.HavaKaliteSera">
+        <MappingFragment StoreEntitySet="HavaKaliteSera">
+          <ScalarProperty Name="HavaKaliteSera_Tarih" ColumnName="HavaKaliteSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="HavaKalite_ID" ColumnName="HavaKalite_ID" />
+          <ScalarProperty Name="HavaKaliteSera_ID" ColumnName="HavaKaliteSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HavaNemIsi">
+      <EntityTypeMapping TypeName="TalanaModel.HavaNemIsi">
+        <MappingFragment StoreEntitySet="HavaNemIsi">
+          <ScalarProperty Name="HavaNemIsi_Tarih" ColumnName="HavaNemIsi_Tarih" />
+          <ScalarProperty Name="HavaNemIsi_Aktif" ColumnName="HavaNemIsi_Aktif" />
+          <ScalarProperty Name="HavaNemIsi_Ad" ColumnName="HavaNemIsi_Ad" />
+          <ScalarProperty Name="HavaNemIsi_ID" ColumnName="HavaNemIsi_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HavaNemIsiLog">
+      <EntityTypeMapping TypeName="TalanaModel.HavaNemIsiLog">
+        <MappingFragment StoreEntitySet="HavaNemIsiLog">
+          <ScalarProperty Name="HavaNemIsiLog_Tarih" ColumnName="HavaNemIsiLog_Tarih" />
+          <ScalarProperty Name="HavaNemIsiLog_Akim" ColumnName="HavaNemIsiLog_Akim" />
+          <ScalarProperty Name="HavaNemIsiLog_NemDeger" ColumnName="HavaNemIsiLog_NemDeger" />
+          <ScalarProperty Name="HavaNemIsiLog_IsiDeger" ColumnName="HavaNemIsiLog_IsiDeger" />
+          <ScalarProperty Name="HavaNemIsi_ID" ColumnName="HavaNemIsi_ID" />
+          <ScalarProperty Name="HavaNemIsiLog_ID" ColumnName="HavaNemIsiLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HavaNemIsiSera">
+      <EntityTypeMapping TypeName="TalanaModel.HavaNemIsiSera">
+        <MappingFragment StoreEntitySet="HavaNemIsiSera">
+          <ScalarProperty Name="HavaNemIsiSera_Tarih" ColumnName="HavaNemIsiSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="HavaNemIsi_ID" ColumnName="HavaNemIsi_ID" />
+          <ScalarProperty Name="HavaNemIsiSera_ID" ColumnName="HavaNemIsiSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ilac">
+      <EntityTypeMapping TypeName="TalanaModel.Ilac">
+        <MappingFragment StoreEntitySet="Ilac">
+          <ScalarProperty Name="Ilac_Tarih" ColumnName="Ilac_Tarih" />
+          <ScalarProperty Name="Ilac_Aciklama" ColumnName="Ilac_Aciklama" />
+          <ScalarProperty Name="Ilac_Ad" ColumnName="Ilac_Ad" />
+          <ScalarProperty Name="Ilac_ID" ColumnName="Ilac_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IlacMotor">
+      <EntityTypeMapping TypeName="TalanaModel.IlacMotor">
+        <MappingFragment StoreEntitySet="IlacMotor">
+          <ScalarProperty Name="IlacMotor_Tarih" ColumnName="IlacMotor_Tarih" />
+          <ScalarProperty Name="IlacMotor_Aktif" ColumnName="IlacMotor_Aktif" />
+          <ScalarProperty Name="IlacMotor_Ad" ColumnName="IlacMotor_Ad" />
+          <ScalarProperty Name="IlacMotor_ID" ColumnName="IlacMotor_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IlacMotorLog">
+      <EntityTypeMapping TypeName="TalanaModel.IlacMotorLog">
+        <MappingFragment StoreEntitySet="IlacMotorLog">
+          <ScalarProperty Name="IlacMotorLog_Tarih" ColumnName="IlacMotorLog_Tarih" />
+          <ScalarProperty Name="IlacMotorLog_AkisDeger" ColumnName="IlacMotorLog_AkisDeger" />
+          <ScalarProperty Name="IlacMotorLog_MotorAkim" ColumnName="IlacMotorLog_MotorAkim" />
+          <ScalarProperty Name="IlacMotorLog_PwmDeger" ColumnName="IlacMotorLog_PwmDeger" />
+          <ScalarProperty Name="IlacMotor_ID" ColumnName="IlacMotor_ID" />
+          <ScalarProperty Name="IlacMotorLog_ID" ColumnName="IlacMotorLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IlacMotorTankSera">
+      <EntityTypeMapping TypeName="TalanaModel.IlacMotorTankSera">
+        <MappingFragment StoreEntitySet="IlacMotorTankSera">
+          <ScalarProperty Name="IlacMotorTankSera_Tarih" ColumnName="IlacMotorTankSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="IlacTank_ID" ColumnName="IlacTank_ID" />
+          <ScalarProperty Name="IlacMotor_ID" ColumnName="IlacMotor_ID" />
+          <ScalarProperty Name="IlacMotorTankSera_ID" ColumnName="IlacMotorTankSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IlacTank">
+      <EntityTypeMapping TypeName="TalanaModel.IlacTank">
+        <MappingFragment StoreEntitySet="IlacTank">
+          <ScalarProperty Name="IlacTank_Tarih" ColumnName="IlacTank_Tarih" />
+          <ScalarProperty Name="IlacTank_AktifMiktar" ColumnName="IlacTank_AktifMiktar" />
+          <ScalarProperty Name="IlacTank_MaxMiktar" ColumnName="IlacTank_MaxMiktar" />
+          <ScalarProperty Name="Ilac_ID" ColumnName="Ilac_ID" />
+          <ScalarProperty Name="IlacTank_ID" ColumnName="IlacTank_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Isik">
+      <EntityTypeMapping TypeName="TalanaModel.Isik">
+        <MappingFragment StoreEntitySet="Isik">
+          <ScalarProperty Name="Isik_Tarih" ColumnName="Isik_Tarih" />
+          <ScalarProperty Name="Isik_Aktif" ColumnName="Isik_Aktif" />
+          <ScalarProperty Name="Isik_Ad" ColumnName="Isik_Ad" />
+          <ScalarProperty Name="Isik_ID" ColumnName="Isik_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IsikLog">
+      <EntityTypeMapping TypeName="TalanaModel.IsikLog">
+        <MappingFragment StoreEntitySet="IsikLog">
+          <ScalarProperty Name="IsikLog_Tarih" ColumnName="IsikLog_Tarih" />
+          <ScalarProperty Name="IsikLog_Akim" ColumnName="IsikLog_Akim" />
+          <ScalarProperty Name="IsikLog_Deger" ColumnName="IsikLog_Deger" />
+          <ScalarProperty Name="Isik_ID" ColumnName="Isik_ID" />
+          <ScalarProperty Name="IsikLog_ID" ColumnName="IsikLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IsikSera">
+      <EntityTypeMapping TypeName="TalanaModel.IsikSera">
+        <MappingFragment StoreEntitySet="IsikSera">
+          <ScalarProperty Name="IsikSera_Tarih" ColumnName="IsikSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="Isik_ID" ColumnName="Isik_ID" />
+          <ScalarProperty Name="IsikSera_ID" ColumnName="IsikSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IsikSiddet">
+      <EntityTypeMapping TypeName="TalanaModel.IsikSiddet">
+        <MappingFragment StoreEntitySet="IsikSiddet">
+          <ScalarProperty Name="IsikSiddet_Tarih" ColumnName="IsikSiddet_Tarih" />
+          <ScalarProperty Name="IsikSiddet_Aktif" ColumnName="IsikSiddet_Aktif" />
+          <ScalarProperty Name="IsikSiddet_Ad" ColumnName="IsikSiddet_Ad" />
+          <ScalarProperty Name="IsikSiddet_ID" ColumnName="IsikSiddet_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IsikSiddetLog">
+      <EntityTypeMapping TypeName="TalanaModel.IsikSiddetLog">
+        <MappingFragment StoreEntitySet="IsikSiddetLog">
+          <ScalarProperty Name="IsikSiddetLog_Tarih" ColumnName="IsikSiddetLog_Tarih" />
+          <ScalarProperty Name="IsikSiddet_Akim" ColumnName="IsikSiddet_Akim" />
+          <ScalarProperty Name="IsikSiddet_Deger" ColumnName="IsikSiddet_Deger" />
+          <ScalarProperty Name="IsikSiddet_ID" ColumnName="IsikSiddet_ID" />
+          <ScalarProperty Name="IsikSiddetLog_ID" ColumnName="IsikSiddetLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IsikSiddetSera">
+      <EntityTypeMapping TypeName="TalanaModel.IsikSiddetSera">
+        <MappingFragment StoreEntitySet="IsikSiddetSera">
+          <ScalarProperty Name="IsikSiddetSera_Tarih" ColumnName="IsikSiddetSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="IsikSiddet_ID" ColumnName="IsikSiddet_ID" />
+          <ScalarProperty Name="IsikSiddetSera_ID" ColumnName="IsikSiddetSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanicilar">
+      <EntityTypeMapping TypeName="TalanaModel.Kullanicilar">
+        <MappingFragment StoreEntitySet="Kullanicilar">
+          <ScalarProperty Name="Kullanici_Resim" ColumnName="Kullanici_Resim" />
+          <ScalarProperty Name="Kullanici_Kod" ColumnName="Kullanici_Kod" />
+          <ScalarProperty Name="Kullanici_Sifre" ColumnName="Kullanici_Sifre" />
+          <ScalarProperty Name="Kullanici_Soyad" ColumnName="Kullanici_Soyad" />
+          <ScalarProperty Name="Kullanici_Ad" ColumnName="Kullanici_Ad" />
+          <ScalarProperty Name="Kullanici_ID" ColumnName="Kullanici_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KullaniciLog">
+      <EntityTypeMapping TypeName="TalanaModel.KullaniciLog">
+        <MappingFragment StoreEntitySet="KullaniciLog">
+          <ScalarProperty Name="KullaniciLog_Tarih" ColumnName="KullaniciLog_Tarih" />
+          <ScalarProperty Name="Kullanici_IP" ColumnName="Kullanici_IP" />
+          <ScalarProperty Name="Kullanici_Platform" ColumnName="Kullanici_Platform" />
+          <ScalarProperty Name="Girilen_Sifre" ColumnName="Girilen_Sifre" />
+          <ScalarProperty Name="Kullanici_Sifre" ColumnName="Kullanici_Sifre" />
+          <ScalarProperty Name="Kullanici_ID" ColumnName="Kullanici_ID" />
+          <ScalarProperty Name="KullaniciLog_ID" ColumnName="KullaniciLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SeraKullanici">
+      <EntityTypeMapping TypeName="TalanaModel.SeraKullanici">
+        <MappingFragment StoreEntitySet="SeraKullanici">
+          <ScalarProperty Name="KullaniciID" ColumnName="KullaniciID" />
+          <ScalarProperty Name="SeraID" ColumnName="SeraID" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Seralar">
+      <EntityTypeMapping TypeName="TalanaModel.Seralar">
+        <MappingFragment StoreEntitySet="Seralar">
+          <ScalarProperty Name="Sera_Aktif" ColumnName="Sera_Aktif" />
+          <ScalarProperty Name="Sera_Tarih" ColumnName="Sera_Tarih" />
+          <ScalarProperty Name="Sera_Ad" ColumnName="Sera_Ad" />
+          <ScalarProperty Name="Sera_Kullanici_ID" ColumnName="Sera_Kullanici_ID" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SeraUrun">
+      <EntityTypeMapping TypeName="TalanaModel.SeraUrun">
+        <MappingFragment StoreEntitySet="SeraUrun">
+          <ScalarProperty Name="IsikCumle2" ColumnName="IsikCumle2" />
+          <ScalarProperty Name="IsikCumle1" ColumnName="IsikCumle1" />
+          <ScalarProperty Name="HavaCumle2" ColumnName="HavaCumle2" />
+          <ScalarProperty Name="HavaCumle1" ColumnName="HavaCumle1" />
+          <ScalarProperty Name="NemCumle2" ColumnName="NemCumle2" />
+          <ScalarProperty Name="NemCumle1" ColumnName="NemCumle1" />
+          <ScalarProperty Name="SicaklikCumle2" ColumnName="SicaklikCumle2" />
+          <ScalarProperty Name="SicaklikCumle1" ColumnName="SicaklikCumle1" />
+          <ScalarProperty Name="HedefHava" ColumnName="HedefHava" />
+          <ScalarProperty Name="HedefIsik" ColumnName="HedefIsik" />
+          <ScalarProperty Name="HedefNem" ColumnName="HedefNem" />
+          <ScalarProperty Name="HedefSicaklik" ColumnName="HedefSicaklik" />
+          <ScalarProperty Name="MinToprakNem" ColumnName="MinToprakNem" />
+          <ScalarProperty Name="MaxToprakNem" ColumnName="MaxToprakNem" />
+          <ScalarProperty Name="MinHava" ColumnName="MinHava" />
+          <ScalarProperty Name="MaxHava" ColumnName="MaxHava" />
+          <ScalarProperty Name="MinIsik" ColumnName="MinIsik" />
+          <ScalarProperty Name="MaxIsik" ColumnName="MaxIsik" />
+          <ScalarProperty Name="MinNem" ColumnName="MinNem" />
+          <ScalarProperty Name="MaxNem" ColumnName="MaxNem" />
+          <ScalarProperty Name="MinSicaklik" ColumnName="MinSicaklik" />
+          <ScalarProperty Name="MaxSicaklik" ColumnName="MaxSicaklik" />
+          <ScalarProperty Name="Sera_HasatTarih" ColumnName="Sera_HasatTarih" />
+          <ScalarProperty Name="Sera_EkimTarih" ColumnName="Sera_EkimTarih" />
+          <ScalarProperty Name="Urun_ID" ColumnName="Urun_ID" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="SeraUrun_ID" ColumnName="SeraUrun_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SuMotor">
+      <EntityTypeMapping TypeName="TalanaModel.SuMotor">
+        <MappingFragment StoreEntitySet="SuMotor">
+          <ScalarProperty Name="SuMotor_Tarih" ColumnName="SuMotor_Tarih" />
+          <ScalarProperty Name="SuMotor_Aktif" ColumnName="SuMotor_Aktif" />
+          <ScalarProperty Name="SuMotor_Ad" ColumnName="SuMotor_Ad" />
+          <ScalarProperty Name="SuMotor_ID" ColumnName="SuMotor_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SuMotorLog">
+      <EntityTypeMapping TypeName="TalanaModel.SuMotorLog">
+        <MappingFragment StoreEntitySet="SuMotorLog">
+          <ScalarProperty Name="SuMotorLog_Tarih" ColumnName="SuMotorLog_Tarih" />
+          <ScalarProperty Name="SuMotorLog_BasincDeger" ColumnName="SuMotorLog_BasincDeger" />
+          <ScalarProperty Name="SuMotorLog_AkisDeger" ColumnName="SuMotorLog_AkisDeger" />
+          <ScalarProperty Name="SuMotorLog_MotorAkim" ColumnName="SuMotorLog_MotorAkim" />
+          <ScalarProperty Name="SuMotorLog_PwmDeger" ColumnName="SuMotorLog_PwmDeger" />
+          <ScalarProperty Name="SuMotor_ID" ColumnName="SuMotor_ID" />
+          <ScalarProperty Name="SuMotorLog_ID" ColumnName="SuMotorLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SuMotorSera">
+      <EntityTypeMapping TypeName="TalanaModel.SuMotorSera">
+        <MappingFragment StoreEntitySet="SuMotorSera">
+          <ScalarProperty Name="SuMotorSera_Tarih" ColumnName="SuMotorSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="SuMotor_ID" ColumnName="SuMotor_ID" />
+          <ScalarProperty Name="SuMotorSera_ID" ColumnName="SuMotorSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="TalanaModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ToprakNem">
+      <EntityTypeMapping TypeName="TalanaModel.ToprakNem">
+        <MappingFragment StoreEntitySet="ToprakNem">
+          <ScalarProperty Name="ToprakNem_Tarih" ColumnName="ToprakNem_Tarih" />
+          <ScalarProperty Name="ToprakNem_Aktif" ColumnName="ToprakNem_Aktif" />
+          <ScalarProperty Name="ToprakNem_Ad" ColumnName="ToprakNem_Ad" />
+          <ScalarProperty Name="ToprakNem_ID" ColumnName="ToprakNem_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ToprakNemLog">
+      <EntityTypeMapping TypeName="TalanaModel.ToprakNemLog">
+        <MappingFragment StoreEntitySet="ToprakNemLog">
+          <ScalarProperty Name="ToprakNemLog_Tarih" ColumnName="ToprakNemLog_Tarih" />
+          <ScalarProperty Name="ToprakNemLog_Akim" ColumnName="ToprakNemLog_Akim" />
+          <ScalarProperty Name="ToprakNemLog_Deger" ColumnName="ToprakNemLog_Deger" />
+          <ScalarProperty Name="ToprakNem_ID" ColumnName="ToprakNem_ID" />
+          <ScalarProperty Name="ToprakNemLog_ID" ColumnName="ToprakNemLog_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ToprakNemSera">
+      <EntityTypeMapping TypeName="TalanaModel.ToprakNemSera">
+        <MappingFragment StoreEntitySet="ToprakNemSera">
+          <ScalarProperty Name="ToprakNemSera_Tarih" ColumnName="ToprakNemSera_Tarih" />
+          <ScalarProperty Name="Sera_ID" ColumnName="Sera_ID" />
+          <ScalarProperty Name="ToprakNem_ID" ColumnName="ToprakNem_ID" />
+          <ScalarProperty Name="ToprakNemSera_ID" ColumnName="ToprakNemSera_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Urunler">
+      <EntityTypeMapping TypeName="TalanaModel.Urunler">
+        <MappingFragment StoreEntitySet="Urunler">
+          <ScalarProperty Name="Urun_Tarih" ColumnName="Urun_Tarih" />
+          <ScalarProperty Name="Urun_Aktif" ColumnName="Urun_Aktif" />
+          <ScalarProperty Name="Urun_Resim" ColumnName="Urun_Resim" />
+          <ScalarProperty Name="Urun_Ad" ColumnName="Urun_Ad" />
+          <ScalarProperty Name="Urun_ID" ColumnName="Urun_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UrunOzellik">
+      <EntityTypeMapping TypeName="TalanaModel.UrunOzellik">
+        <MappingFragment StoreEntitySet="UrunOzellik">
+          <ScalarProperty Name="UrunOzellik_Tarih" ColumnName="UrunOzellik_Tarih" />
+          <ScalarProperty Name="UrunOzellik_HasatSure" ColumnName="UrunOzellik_HasatSure" />
+          <ScalarProperty Name="UrunOzellik_IlacMiktar" ColumnName="UrunOzellik_IlacMiktar" />
+          <ScalarProperty Name="UrunOzellik_IlacSure" ColumnName="UrunOzellik_IlacSure" />
+          <ScalarProperty Name="UrunOzellik_MaxHavaKalite" ColumnName="UrunOzellik_MaxHavaKalite" />
+          <ScalarProperty Name="UrunOzellik_MinHavaKalite" ColumnName="UrunOzellik_MinHavaKalite" />
+          <ScalarProperty Name="UrunOzellik_MaxIsikSiddet" ColumnName="UrunOzellik_MaxIsikSiddet" />
+          <ScalarProperty Name="UrunOzellik__MinIsikSiddet" ColumnName="UrunOzellik__MinIsikSiddet" />
+          <ScalarProperty Name="UrunOzellik_MaxToprakNem" ColumnName="UrunOzellik_MaxToprakNem" />
+          <ScalarProperty Name="UrunOzellik_MinToprakNem" ColumnName="UrunOzellik_MinToprakNem" />
+          <ScalarProperty Name="UrunOzellik_MaxNem" ColumnName="UrunOzellik_MaxNem" />
+          <ScalarProperty Name="UrunOzellik_MinNem" ColumnName="UrunOzellik_MinNem" />
+          <ScalarProperty Name="UrunOzellik_MaxSicaklik" ColumnName="UrunOzellik_MaxSicaklik" />
+          <ScalarProperty Name="UrunOzellik_MinSicaklik" ColumnName="UrunOzellik_MinSicaklik" />
+          <ScalarProperty Name="Urun_ID" ColumnName="Urun_ID" />
+          <ScalarProperty Name="UrunOzellik_ID" ColumnName="UrunOzellik_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AnalizGrafikViews">
+      <EntityTypeMapping TypeName="TalanaModel.AnalizGrafikViews">
+        <MappingFragment StoreEntitySet="AnalizGrafikViews">
+          <ScalarProperty Name="Kalan" ColumnName="Kalan" />
+          <ScalarProperty Name="Sera_Ad" ColumnName="Sera_Ad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

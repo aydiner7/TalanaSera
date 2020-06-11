@@ -1,0 +1,1015 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TalanaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BildirimDurum">
+    <Key>
+      <PropertyRef Name="Bildirim_ID" />
+    </Key>
+    <Property Name="Bildirim_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Olay_Adi" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sera_Adi" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" Nullable="false" />
+    <Property Name="Resim" Type="varchar" MaxLength="50" />
+    <Property Name="Baslangic_Saat" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Bitis_Saat" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Eski_Olay" Type="varchar" MaxLength="50" />
+    <Property Name="Yeni_Olay" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DisOrtam">
+    <Key>
+      <PropertyRef Name="DisOrtam_ID" />
+    </Key>
+    <Property Name="DisOrtam_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisOrtam_Ad" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="DisOrtam_Aktif" Type="bit" Nullable="false" />
+    <Property Name="DisOrtam_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DisOrtamLog">
+    <Key>
+      <PropertyRef Name="DisOrtamLog_ID" />
+    </Key>
+    <Property Name="DisOrtamLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisOrtam_ID" Type="int" Nullable="false" />
+    <Property Name="DisOrtamLog_YagmurDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="DisOrtamLog_YagmurAkim" Type="varbinary" MaxLength="10" Nullable="false" />
+    <Property Name="DisOrtamLog_SicaklikDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="DisOrtamLog_SicaklikAkim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="DisOrtamLog_NemDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="DisOrtamLog_NemAkim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="DisOrtam_RuzgarDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="DisOrtamLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DisOrtamSera">
+    <Key>
+      <PropertyRef Name="DisOrtamSera_ID" />
+    </Key>
+    <Property Name="DisOrtamSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisOrtam_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="DisOrtamSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Fan">
+    <Key>
+      <PropertyRef Name="Fan_ID" />
+    </Key>
+    <Property Name="Fan_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fan_Ad" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="Fan_Aktif" Type="bit" Nullable="false" />
+    <Property Name="Fan_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FanLog">
+    <Key>
+      <PropertyRef Name="FanLog_ID" />
+    </Key>
+    <Property Name="FanLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fan_ID" Type="int" Nullable="false" />
+    <Property Name="FanLog_PwmDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="FanLog_FanAkim" Type="varbinary" MaxLength="10" Nullable="false" />
+    <Property Name="FanLog_IsıPwmDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="FanLog_IsiAkim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="FanLog_SicaklikDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="FanLog_SicaklikAkim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="FanLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FanSera">
+    <Key>
+      <PropertyRef Name="FanSera_ID" />
+    </Key>
+    <Property Name="FanSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fan_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="FanSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HavaKalite">
+    <Key>
+      <PropertyRef Name="HavaKalite_ID" />
+    </Key>
+    <Property Name="HavaKalite_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HavaKalite_Ad" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="HavaKalite_Aktif" Type="bit" Nullable="false" />
+    <Property Name="HavaKalite_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HavaKaliteLog">
+    <Key>
+      <PropertyRef Name="HavaKaliteLog_ID" />
+    </Key>
+    <Property Name="HavaKaliteLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HavaKalite_ID" Type="int" Nullable="false" />
+    <Property Name="HavaKaliteLog_Deger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HavaKaliteLog_Akim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HavaKaliteLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HavaKaliteSera">
+    <Key>
+      <PropertyRef Name="HavaKaliteSera_ID" />
+    </Key>
+    <Property Name="HavaKaliteSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HavaKalite_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="HavaKaliteSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HavaNemIsi">
+    <Key>
+      <PropertyRef Name="HavaNemIsi_ID" />
+    </Key>
+    <Property Name="HavaNemIsi_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HavaNemIsi_Ad" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="HavaNemIsi_Aktif" Type="bit" Nullable="false" />
+    <Property Name="HavaNemIsi_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HavaNemIsiLog">
+    <Key>
+      <PropertyRef Name="HavaNemIsiLog_ID" />
+    </Key>
+    <Property Name="HavaNemIsiLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HavaNemIsi_ID" Type="int" Nullable="false" />
+    <Property Name="HavaNemIsiLog_IsiDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HavaNemIsiLog_NemDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HavaNemIsiLog_Akim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HavaNemIsiLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HavaNemIsiSera">
+    <Key>
+      <PropertyRef Name="HavaNemIsiSera_ID" />
+    </Key>
+    <Property Name="HavaNemIsiSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HavaNemIsi_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="HavaNemIsiSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ilac">
+    <Key>
+      <PropertyRef Name="Ilac_ID" />
+    </Key>
+    <Property Name="Ilac_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ilac_Ad" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Ilac_Aciklama" Type="text" Nullable="false" />
+    <Property Name="Ilac_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IlacMotor">
+    <Key>
+      <PropertyRef Name="IlacMotor_ID" />
+    </Key>
+    <Property Name="IlacMotor_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IlacMotor_Ad" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="IlacMotor_Aktif" Type="bit" Nullable="false" />
+    <Property Name="IlacMotor_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IlacMotorLog">
+    <Key>
+      <PropertyRef Name="IlacMotorLog_ID" />
+    </Key>
+    <Property Name="IlacMotorLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IlacMotor_ID" Type="int" Nullable="false" />
+    <Property Name="IlacMotorLog_PwmDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IlacMotorLog_MotorAkim" Type="varbinary" MaxLength="10" Nullable="false" />
+    <Property Name="IlacMotorLog_AkisDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IlacMotorLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IlacMotorTankSera">
+    <Key>
+      <PropertyRef Name="IlacMotorTankSera_ID" />
+    </Key>
+    <Property Name="IlacMotorTankSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IlacMotor_ID" Type="int" Nullable="false" />
+    <Property Name="IlacTank_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="IlacMotorTankSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IlacTank">
+    <Key>
+      <PropertyRef Name="IlacTank_ID" />
+    </Key>
+    <Property Name="IlacTank_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ilac_ID" Type="int" Nullable="false" />
+    <Property Name="IlacTank_MaxMiktar" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IlacTank_AktifMiktar" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IlacTank_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Isik">
+    <Key>
+      <PropertyRef Name="Isik_ID" />
+    </Key>
+    <Property Name="Isik_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Isik_Ad" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="Isik_Aktif" Type="bit" Nullable="false" />
+    <Property Name="Isik_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IsikLog">
+    <Key>
+      <PropertyRef Name="IsikLog_ID" />
+    </Key>
+    <Property Name="IsikLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Isik_ID" Type="int" Nullable="false" />
+    <Property Name="IsikLog_Deger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IsikLog_Akim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IsikLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IsikSera">
+    <Key>
+      <PropertyRef Name="IsikSera_ID" />
+    </Key>
+    <Property Name="IsikSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Isik_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="IsikSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IsikSiddet">
+    <Key>
+      <PropertyRef Name="IsikSiddet_ID" />
+    </Key>
+    <Property Name="IsikSiddet_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IsikSiddet_Ad" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="IsikSiddet_Aktif" Type="bit" Nullable="false" />
+    <Property Name="IsikSiddet_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IsikSiddetLog">
+    <Key>
+      <PropertyRef Name="IsikSiddetLog_ID" />
+    </Key>
+    <Property Name="IsikSiddetLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IsikSiddet_ID" Type="int" Nullable="false" />
+    <Property Name="IsikSiddet_Deger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IsikSiddet_Akim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IsikSiddetLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IsikSiddetSera">
+    <Key>
+      <PropertyRef Name="IsikSiddetSera_ID" />
+    </Key>
+    <Property Name="IsikSiddetSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IsikSiddet_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="IsikSiddetSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="Kullanici_ID" />
+    </Key>
+    <Property Name="Kullanici_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kullanici_Ad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kullanici_Soyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kullanici_Sifre" Type="nvarchar" MaxLength="4" Nullable="false" />
+    <Property Name="Kullanici_Kod" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="Kullanici_Resim" Type="nvarchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KullaniciLog">
+    <Key>
+      <PropertyRef Name="KullaniciLog_ID" />
+    </Key>
+    <Property Name="KullaniciLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kullanici_ID" Type="int" Nullable="false" />
+    <Property Name="Kullanici_Sifre" Type="varchar" MaxLength="4" Nullable="false" />
+    <Property Name="Girilen_Sifre" Type="varchar" MaxLength="4" Nullable="false" />
+    <Property Name="Kullanici_Platform" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Kullanici_IP" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="KullaniciLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SeraKullanici">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SeraID" Type="int" Nullable="false" />
+    <Property Name="KullaniciID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Seralar">
+    <Key>
+      <PropertyRef Name="Sera_ID" />
+    </Key>
+    <Property Name="Sera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Sera_Kullanici_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_Ad" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sera_Tarih" Type="datetime" Nullable="false" />
+    <Property Name="Sera_Aktif" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SeraUrun">
+    <Key>
+      <PropertyRef Name="SeraUrun_ID" />
+    </Key>
+    <Property Name="SeraUrun_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="Urun_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_EkimTarih" Type="datetime" Nullable="false" />
+    <Property Name="Sera_HasatTarih" Type="datetime" Nullable="false" />
+    <Property Name="MaxSicaklik" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MinSicaklik" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaxNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MinNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaxIsik" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MinIsik" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaxHava" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MinHava" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaxToprakNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MinToprakNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HedefSicaklik" Type="varchar" MaxLength="50" />
+    <Property Name="HedefNem" Type="varchar" MaxLength="50" />
+    <Property Name="HedefIsik" Type="varchar" MaxLength="50" />
+    <Property Name="HedefHava" Type="varchar" MaxLength="50" />
+    <Property Name="SicaklikCumle1" Type="varchar" MaxLength="150" />
+    <Property Name="SicaklikCumle2" Type="varchar" MaxLength="150" />
+    <Property Name="NemCumle1" Type="varchar" MaxLength="150" />
+    <Property Name="NemCumle2" Type="varchar" MaxLength="150" />
+    <Property Name="HavaCumle1" Type="varchar" MaxLength="150" />
+    <Property Name="HavaCumle2" Type="varchar" MaxLength="150" />
+    <Property Name="IsikCumle1" Type="varchar" MaxLength="150" />
+    <Property Name="IsikCumle2" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="SuMotor">
+    <Key>
+      <PropertyRef Name="SuMotor_ID" />
+    </Key>
+    <Property Name="SuMotor_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SuMotor_Ad" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="SuMotor_Aktif" Type="bit" Nullable="false" />
+    <Property Name="SuMotor_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SuMotorLog">
+    <Key>
+      <PropertyRef Name="SuMotorLog_ID" />
+    </Key>
+    <Property Name="SuMotorLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SuMotor_ID" Type="int" Nullable="false" />
+    <Property Name="SuMotorLog_PwmDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="SuMotorLog_MotorAkim" Type="varbinary" MaxLength="10" Nullable="false" />
+    <Property Name="SuMotorLog_AkisDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="SuMotorLog_BasincDeger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="SuMotorLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SuMotorSera">
+    <Key>
+      <PropertyRef Name="SuMotorSera_ID" />
+    </Key>
+    <Property Name="SuMotorSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SuMotor_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="SuMotorSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="ToprakNem">
+    <Key>
+      <PropertyRef Name="ToprakNem_ID" />
+    </Key>
+    <Property Name="ToprakNem_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ToprakNem_Ad" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="ToprakNem_Aktif" Type="bit" Nullable="false" />
+    <Property Name="ToprakNem_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ToprakNemLog">
+    <Key>
+      <PropertyRef Name="ToprakNemLog_ID" />
+    </Key>
+    <Property Name="ToprakNemLog_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ToprakNem_ID" Type="int" Nullable="false" />
+    <Property Name="ToprakNemLog_Deger" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ToprakNemLog_Akim" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ToprakNemLog_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ToprakNemSera">
+    <Key>
+      <PropertyRef Name="ToprakNemSera_ID" />
+    </Key>
+    <Property Name="ToprakNemSera_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ToprakNem_ID" Type="int" Nullable="false" />
+    <Property Name="Sera_ID" Type="int" Nullable="false" />
+    <Property Name="ToprakNemSera_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="Urun_ID" />
+    </Key>
+    <Property Name="Urun_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Urun_Ad" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="Urun_Resim" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="Urun_Aktif" Type="bit" Nullable="false" />
+    <Property Name="Urun_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UrunOzellik">
+    <Key>
+      <PropertyRef Name="UrunOzellik_ID" />
+    </Key>
+    <Property Name="UrunOzellik_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Urun_ID" Type="int" Nullable="false" />
+    <Property Name="UrunOzellik_MinSicaklik" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MaxSicaklik" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MinNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MaxNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MinToprakNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MaxToprakNem" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik__MinIsikSiddet" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MaxIsikSiddet" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MinHavaKalite" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_MaxHavaKalite" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_IlacSure" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="UrunOzellik_IlacMiktar" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_HasatSure" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UrunOzellik_Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Talana.dbo.AnalizGrafikViews' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="AnalizGrafikViews">
+    <Key>
+      <PropertyRef Name="Sera_Ad" />
+    </Key>
+    <Property Name="Sera_Ad" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kalan" Type="int" />
+  </EntityType>
+  <Association Name="FK_DisOrtamLog_DisOrtam">
+    <End Role="DisOrtam" Type="Self.DisOrtam" Multiplicity="1" />
+    <End Role="DisOrtamLog" Type="Self.DisOrtamLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DisOrtam">
+        <PropertyRef Name="DisOrtam_ID" />
+      </Principal>
+      <Dependent Role="DisOrtamLog">
+        <PropertyRef Name="DisOrtam_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DisOrtamSera_DisOrtam">
+    <End Role="DisOrtam" Type="Self.DisOrtam" Multiplicity="1" />
+    <End Role="DisOrtamSera" Type="Self.DisOrtamSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DisOrtam">
+        <PropertyRef Name="DisOrtam_ID" />
+      </Principal>
+      <Dependent Role="DisOrtamSera">
+        <PropertyRef Name="DisOrtam_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DisOrtamSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="DisOrtamSera" Type="Self.DisOrtamSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="DisOrtamSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FanLog_Fan">
+    <End Role="Fan" Type="Self.Fan" Multiplicity="1" />
+    <End Role="FanLog" Type="Self.FanLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Fan">
+        <PropertyRef Name="Fan_ID" />
+      </Principal>
+      <Dependent Role="FanLog">
+        <PropertyRef Name="Fan_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FanSera_Fan">
+    <End Role="Fan" Type="Self.Fan" Multiplicity="1" />
+    <End Role="FanSera" Type="Self.FanSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Fan">
+        <PropertyRef Name="Fan_ID" />
+      </Principal>
+      <Dependent Role="FanSera">
+        <PropertyRef Name="Fan_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FanSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="FanSera" Type="Self.FanSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="FanSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HavaKaliteLog_HavaKalite">
+    <End Role="HavaKalite" Type="Self.HavaKalite" Multiplicity="1" />
+    <End Role="HavaKaliteLog" Type="Self.HavaKaliteLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HavaKalite">
+        <PropertyRef Name="HavaKalite_ID" />
+      </Principal>
+      <Dependent Role="HavaKaliteLog">
+        <PropertyRef Name="HavaKalite_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HavaKaliteSera_HavaKalite">
+    <End Role="HavaKalite" Type="Self.HavaKalite" Multiplicity="1" />
+    <End Role="HavaKaliteSera" Type="Self.HavaKaliteSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HavaKalite">
+        <PropertyRef Name="HavaKalite_ID" />
+      </Principal>
+      <Dependent Role="HavaKaliteSera">
+        <PropertyRef Name="HavaKalite_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HavaKaliteSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="HavaKaliteSera" Type="Self.HavaKaliteSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="HavaKaliteSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HavaNemIsiLog_HavaNemIsi">
+    <End Role="HavaNemIsi" Type="Self.HavaNemIsi" Multiplicity="1" />
+    <End Role="HavaNemIsiLog" Type="Self.HavaNemIsiLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HavaNemIsi">
+        <PropertyRef Name="HavaNemIsi_ID" />
+      </Principal>
+      <Dependent Role="HavaNemIsiLog">
+        <PropertyRef Name="HavaNemIsi_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HavaNemIsiSera_HavaNemIsi">
+    <End Role="HavaNemIsi" Type="Self.HavaNemIsi" Multiplicity="1" />
+    <End Role="HavaNemIsiSera" Type="Self.HavaNemIsiSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HavaNemIsi">
+        <PropertyRef Name="HavaNemIsi_ID" />
+      </Principal>
+      <Dependent Role="HavaNemIsiSera">
+        <PropertyRef Name="HavaNemIsi_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HavaNemIsiSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="HavaNemIsiSera" Type="Self.HavaNemIsiSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="HavaNemIsiSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IlacMotorLog_IlacMotor">
+    <End Role="IlacMotor" Type="Self.IlacMotor" Multiplicity="1" />
+    <End Role="IlacMotorLog" Type="Self.IlacMotorLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IlacMotor">
+        <PropertyRef Name="IlacMotor_ID" />
+      </Principal>
+      <Dependent Role="IlacMotorLog">
+        <PropertyRef Name="IlacMotor_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IlacMotorTankSera_IlacMotor">
+    <End Role="IlacMotor" Type="Self.IlacMotor" Multiplicity="1" />
+    <End Role="IlacMotorTankSera" Type="Self.IlacMotorTankSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IlacMotor">
+        <PropertyRef Name="IlacMotor_ID" />
+      </Principal>
+      <Dependent Role="IlacMotorTankSera">
+        <PropertyRef Name="IlacMotor_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IlacMotorTankSera_IlacTank">
+    <End Role="IlacTank" Type="Self.IlacTank" Multiplicity="1" />
+    <End Role="IlacMotorTankSera" Type="Self.IlacMotorTankSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IlacTank">
+        <PropertyRef Name="IlacTank_ID" />
+      </Principal>
+      <Dependent Role="IlacMotorTankSera">
+        <PropertyRef Name="IlacTank_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IlacMotorTankSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="IlacMotorTankSera" Type="Self.IlacMotorTankSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="IlacMotorTankSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IlacTank_Ilac">
+    <End Role="Ilac" Type="Self.Ilac" Multiplicity="1" />
+    <End Role="IlacTank" Type="Self.IlacTank" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ilac">
+        <PropertyRef Name="Ilac_ID" />
+      </Principal>
+      <Dependent Role="IlacTank">
+        <PropertyRef Name="Ilac_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IsikLog_Isik">
+    <End Role="Isik" Type="Self.Isik" Multiplicity="1" />
+    <End Role="IsikLog" Type="Self.IsikLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Isik">
+        <PropertyRef Name="Isik_ID" />
+      </Principal>
+      <Dependent Role="IsikLog">
+        <PropertyRef Name="Isik_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IsikSera_Isik">
+    <End Role="Isik" Type="Self.Isik" Multiplicity="1" />
+    <End Role="IsikSera" Type="Self.IsikSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Isik">
+        <PropertyRef Name="Isik_ID" />
+      </Principal>
+      <Dependent Role="IsikSera">
+        <PropertyRef Name="Isik_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IsikSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="IsikSera" Type="Self.IsikSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="IsikSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IsikSiddetLog_IsikSiddet">
+    <End Role="IsikSiddet" Type="Self.IsikSiddet" Multiplicity="1" />
+    <End Role="IsikSiddetLog" Type="Self.IsikSiddetLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IsikSiddet">
+        <PropertyRef Name="IsikSiddet_ID" />
+      </Principal>
+      <Dependent Role="IsikSiddetLog">
+        <PropertyRef Name="IsikSiddet_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IsikSiddetSera_IsikSiddet">
+    <End Role="IsikSiddet" Type="Self.IsikSiddet" Multiplicity="1" />
+    <End Role="IsikSiddetSera" Type="Self.IsikSiddetSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IsikSiddet">
+        <PropertyRef Name="IsikSiddet_ID" />
+      </Principal>
+      <Dependent Role="IsikSiddetSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IsikSiddetSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="IsikSiddetSera" Type="Self.IsikSiddetSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="IsikSiddetSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KullaniciLog_Kullanicilar">
+    <End Role="Kullanicilar" Type="Self.Kullanicilar" Multiplicity="1" />
+    <End Role="KullaniciLog" Type="Self.KullaniciLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanicilar">
+        <PropertyRef Name="Kullanici_ID" />
+      </Principal>
+      <Dependent Role="KullaniciLog">
+        <PropertyRef Name="Kullanici_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Seralar_Kullanicilar">
+    <End Role="Kullanicilar" Type="Self.Kullanicilar" Multiplicity="1" />
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanicilar">
+        <PropertyRef Name="Kullanici_ID" />
+      </Principal>
+      <Dependent Role="Seralar">
+        <PropertyRef Name="Sera_Kullanici_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SeraUrun_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="SeraUrun" Type="Self.SeraUrun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="SeraUrun">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SeraUrun_Urunler">
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="1" />
+    <End Role="SeraUrun" Type="Self.SeraUrun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urunler">
+        <PropertyRef Name="Urun_ID" />
+      </Principal>
+      <Dependent Role="SeraUrun">
+        <PropertyRef Name="Urun_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SuMotorLog_SuMotor">
+    <End Role="SuMotor" Type="Self.SuMotor" Multiplicity="1" />
+    <End Role="SuMotorLog" Type="Self.SuMotorLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SuMotor">
+        <PropertyRef Name="SuMotor_ID" />
+      </Principal>
+      <Dependent Role="SuMotorLog">
+        <PropertyRef Name="SuMotor_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SuMotorSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="SuMotorSera" Type="Self.SuMotorSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="SuMotorSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SuMotorSera_SuMotor">
+    <End Role="SuMotor" Type="Self.SuMotor" Multiplicity="1" />
+    <End Role="SuMotorSera" Type="Self.SuMotorSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SuMotor">
+        <PropertyRef Name="SuMotor_ID" />
+      </Principal>
+      <Dependent Role="SuMotorSera">
+        <PropertyRef Name="SuMotor_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ToprakNemLog_ToprakNem">
+    <End Role="ToprakNem" Type="Self.ToprakNem" Multiplicity="1" />
+    <End Role="ToprakNemLog" Type="Self.ToprakNemLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ToprakNem">
+        <PropertyRef Name="ToprakNem_ID" />
+      </Principal>
+      <Dependent Role="ToprakNemLog">
+        <PropertyRef Name="ToprakNem_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ToprakNemSera_Seralar">
+    <End Role="Seralar" Type="Self.Seralar" Multiplicity="1" />
+    <End Role="ToprakNemSera" Type="Self.ToprakNemSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seralar">
+        <PropertyRef Name="Sera_ID" />
+      </Principal>
+      <Dependent Role="ToprakNemSera">
+        <PropertyRef Name="Sera_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ToprakNemSera_ToprakNem">
+    <End Role="ToprakNem" Type="Self.ToprakNem" Multiplicity="1" />
+    <End Role="ToprakNemSera" Type="Self.ToprakNemSera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ToprakNem">
+        <PropertyRef Name="ToprakNem_ID" />
+      </Principal>
+      <Dependent Role="ToprakNemSera">
+        <PropertyRef Name="ToprakNem_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UrunOzellik_Urunler">
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="1" />
+    <End Role="UrunOzellik" Type="Self.UrunOzellik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urunler">
+        <PropertyRef Name="Urun_ID" />
+      </Principal>
+      <Dependent Role="UrunOzellik">
+        <PropertyRef Name="Urun_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TalanaModelStoreContainer">
+    <EntitySet Name="BildirimDurum" EntityType="Self.BildirimDurum" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DisOrtam" EntityType="Self.DisOrtam" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DisOrtamLog" EntityType="Self.DisOrtamLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DisOrtamSera" EntityType="Self.DisOrtamSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Fan" EntityType="Self.Fan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FanLog" EntityType="Self.FanLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FanSera" EntityType="Self.FanSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HavaKalite" EntityType="Self.HavaKalite" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HavaKaliteLog" EntityType="Self.HavaKaliteLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HavaKaliteSera" EntityType="Self.HavaKaliteSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HavaNemIsi" EntityType="Self.HavaNemIsi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HavaNemIsiLog" EntityType="Self.HavaNemIsiLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HavaNemIsiSera" EntityType="Self.HavaNemIsiSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ilac" EntityType="Self.Ilac" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IlacMotor" EntityType="Self.IlacMotor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IlacMotorLog" EntityType="Self.IlacMotorLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IlacMotorTankSera" EntityType="Self.IlacMotorTankSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IlacTank" EntityType="Self.IlacTank" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Isik" EntityType="Self.Isik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IsikLog" EntityType="Self.IsikLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IsikSera" EntityType="Self.IsikSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IsikSiddet" EntityType="Self.IsikSiddet" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IsikSiddetLog" EntityType="Self.IsikSiddetLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IsikSiddetSera" EntityType="Self.IsikSiddetSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KullaniciLog" EntityType="Self.KullaniciLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SeraKullanici" EntityType="Self.SeraKullanici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Seralar" EntityType="Self.Seralar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SeraUrun" EntityType="Self.SeraUrun" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SuMotor" EntityType="Self.SuMotor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SuMotorLog" EntityType="Self.SuMotorLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SuMotorSera" EntityType="Self.SuMotorSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ToprakNem" EntityType="Self.ToprakNem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ToprakNemLog" EntityType="Self.ToprakNemLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ToprakNemSera" EntityType="Self.ToprakNemSera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Urunler" EntityType="Self.Urunler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UrunOzellik" EntityType="Self.UrunOzellik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AnalizGrafikViews" EntityType="Self.AnalizGrafikViews" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [AnalizGrafikViews].[Sera_Ad] AS [Sera_Ad], 
+    [AnalizGrafikViews].[Kalan] AS [Kalan]
+    FROM [dbo].[AnalizGrafikViews] AS [AnalizGrafikViews]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_DisOrtamLog_DisOrtam" Association="Self.FK_DisOrtamLog_DisOrtam">
+      <End Role="DisOrtam" EntitySet="DisOrtam" />
+      <End Role="DisOrtamLog" EntitySet="DisOrtamLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DisOrtamSera_DisOrtam" Association="Self.FK_DisOrtamSera_DisOrtam">
+      <End Role="DisOrtam" EntitySet="DisOrtam" />
+      <End Role="DisOrtamSera" EntitySet="DisOrtamSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DisOrtamSera_Seralar" Association="Self.FK_DisOrtamSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="DisOrtamSera" EntitySet="DisOrtamSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FanLog_Fan" Association="Self.FK_FanLog_Fan">
+      <End Role="Fan" EntitySet="Fan" />
+      <End Role="FanLog" EntitySet="FanLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FanSera_Fan" Association="Self.FK_FanSera_Fan">
+      <End Role="Fan" EntitySet="Fan" />
+      <End Role="FanSera" EntitySet="FanSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FanSera_Seralar" Association="Self.FK_FanSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="FanSera" EntitySet="FanSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HavaKaliteLog_HavaKalite" Association="Self.FK_HavaKaliteLog_HavaKalite">
+      <End Role="HavaKalite" EntitySet="HavaKalite" />
+      <End Role="HavaKaliteLog" EntitySet="HavaKaliteLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HavaKaliteSera_HavaKalite" Association="Self.FK_HavaKaliteSera_HavaKalite">
+      <End Role="HavaKalite" EntitySet="HavaKalite" />
+      <End Role="HavaKaliteSera" EntitySet="HavaKaliteSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HavaKaliteSera_Seralar" Association="Self.FK_HavaKaliteSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="HavaKaliteSera" EntitySet="HavaKaliteSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HavaNemIsiLog_HavaNemIsi" Association="Self.FK_HavaNemIsiLog_HavaNemIsi">
+      <End Role="HavaNemIsi" EntitySet="HavaNemIsi" />
+      <End Role="HavaNemIsiLog" EntitySet="HavaNemIsiLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HavaNemIsiSera_HavaNemIsi" Association="Self.FK_HavaNemIsiSera_HavaNemIsi">
+      <End Role="HavaNemIsi" EntitySet="HavaNemIsi" />
+      <End Role="HavaNemIsiSera" EntitySet="HavaNemIsiSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HavaNemIsiSera_Seralar" Association="Self.FK_HavaNemIsiSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="HavaNemIsiSera" EntitySet="HavaNemIsiSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IlacMotorLog_IlacMotor" Association="Self.FK_IlacMotorLog_IlacMotor">
+      <End Role="IlacMotor" EntitySet="IlacMotor" />
+      <End Role="IlacMotorLog" EntitySet="IlacMotorLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IlacMotorTankSera_IlacMotor" Association="Self.FK_IlacMotorTankSera_IlacMotor">
+      <End Role="IlacMotor" EntitySet="IlacMotor" />
+      <End Role="IlacMotorTankSera" EntitySet="IlacMotorTankSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IlacMotorTankSera_IlacTank" Association="Self.FK_IlacMotorTankSera_IlacTank">
+      <End Role="IlacTank" EntitySet="IlacTank" />
+      <End Role="IlacMotorTankSera" EntitySet="IlacMotorTankSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IlacMotorTankSera_Seralar" Association="Self.FK_IlacMotorTankSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="IlacMotorTankSera" EntitySet="IlacMotorTankSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IlacTank_Ilac" Association="Self.FK_IlacTank_Ilac">
+      <End Role="Ilac" EntitySet="Ilac" />
+      <End Role="IlacTank" EntitySet="IlacTank" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IsikLog_Isik" Association="Self.FK_IsikLog_Isik">
+      <End Role="Isik" EntitySet="Isik" />
+      <End Role="IsikLog" EntitySet="IsikLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IsikSera_Isik" Association="Self.FK_IsikSera_Isik">
+      <End Role="Isik" EntitySet="Isik" />
+      <End Role="IsikSera" EntitySet="IsikSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IsikSera_Seralar" Association="Self.FK_IsikSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="IsikSera" EntitySet="IsikSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IsikSiddetLog_IsikSiddet" Association="Self.FK_IsikSiddetLog_IsikSiddet">
+      <End Role="IsikSiddet" EntitySet="IsikSiddet" />
+      <End Role="IsikSiddetLog" EntitySet="IsikSiddetLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IsikSiddetSera_IsikSiddet" Association="Self.FK_IsikSiddetSera_IsikSiddet">
+      <End Role="IsikSiddet" EntitySet="IsikSiddet" />
+      <End Role="IsikSiddetSera" EntitySet="IsikSiddetSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IsikSiddetSera_Seralar" Association="Self.FK_IsikSiddetSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="IsikSiddetSera" EntitySet="IsikSiddetSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KullaniciLog_Kullanicilar" Association="Self.FK_KullaniciLog_Kullanicilar">
+      <End Role="Kullanicilar" EntitySet="Kullanicilar" />
+      <End Role="KullaniciLog" EntitySet="KullaniciLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Seralar_Kullanicilar" Association="Self.FK_Seralar_Kullanicilar">
+      <End Role="Kullanicilar" EntitySet="Kullanicilar" />
+      <End Role="Seralar" EntitySet="Seralar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SeraUrun_Seralar" Association="Self.FK_SeraUrun_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="SeraUrun" EntitySet="SeraUrun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SeraUrun_Urunler" Association="Self.FK_SeraUrun_Urunler">
+      <End Role="Urunler" EntitySet="Urunler" />
+      <End Role="SeraUrun" EntitySet="SeraUrun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SuMotorLog_SuMotor" Association="Self.FK_SuMotorLog_SuMotor">
+      <End Role="SuMotor" EntitySet="SuMotor" />
+      <End Role="SuMotorLog" EntitySet="SuMotorLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SuMotorSera_Seralar" Association="Self.FK_SuMotorSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="SuMotorSera" EntitySet="SuMotorSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SuMotorSera_SuMotor" Association="Self.FK_SuMotorSera_SuMotor">
+      <End Role="SuMotor" EntitySet="SuMotor" />
+      <End Role="SuMotorSera" EntitySet="SuMotorSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ToprakNemLog_ToprakNem" Association="Self.FK_ToprakNemLog_ToprakNem">
+      <End Role="ToprakNem" EntitySet="ToprakNem" />
+      <End Role="ToprakNemLog" EntitySet="ToprakNemLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ToprakNemSera_Seralar" Association="Self.FK_ToprakNemSera_Seralar">
+      <End Role="Seralar" EntitySet="Seralar" />
+      <End Role="ToprakNemSera" EntitySet="ToprakNemSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ToprakNemSera_ToprakNem" Association="Self.FK_ToprakNemSera_ToprakNem">
+      <End Role="ToprakNem" EntitySet="ToprakNem" />
+      <End Role="ToprakNemSera" EntitySet="ToprakNemSera" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UrunOzellik_Urunler" Association="Self.FK_UrunOzellik_Urunler">
+      <End Role="Urunler" EntitySet="Urunler" />
+      <End Role="UrunOzellik" EntitySet="UrunOzellik" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

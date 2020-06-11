@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:abstractions="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             mc:Ignorable="d"
+             x:Class="Sera.Profil">
+    <ContentPage.Content>
+        
+        <Grid>
+            <ScrollView>
+            <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,25,0,0">
+            <Frame CornerRadius="100" WidthRequest="150" HeightRequest="150" VerticalOptions="Center" HorizontalOptions="Center" Padding="10" BorderColor="Black">
+
+                <abstractions:CircleImage  Source="arda.jpg" Aspect="Fill"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HeightRequest="150" WidthRequest="150" Opacity="1" />
+            </Frame>
+            <Label Grid.Row="1" Text="HASAN AYDINER" VerticalOptions="End" HorizontalOptions="Center" FontSize="27" FontAttributes="Bold" />
+                <Frame CornerRadius="15" WidthRequest="300" HeightRequest="150" VerticalOptions="Center" HorizontalOptions="Center" Padding="10" BorderColor="Black" Margin="0,20,0,0" Opacity="0.6">
+                    <Grid WidthRequest="300" HeightRequest="150" VerticalOptions="Center" HorizontalOptions="Center">
+                        <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Start">    
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,20,0,0">
+                    <Label Text="IP Adresiniz : " FontSize="Medium" HorizontalOptions="Center" TextColor="#735E07"/>
+                    <Label Text="192.168.0.10" TextColor="Red" FontSize="Medium"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,13,0,0">
+                    <Label Text="Bağlantı : " FontSize="Medium" HorizontalOptions="Center" TextColor="#735E07"/>
+                    <Label Text="Online" TextColor="Green" FontSize="Medium"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start" VerticalOptions="Start" Margin="0,13,0,0">
+                    <Label Text="Aktif Sera : " FontSize="Medium" HorizontalOptions="Center" TextColor="#735E07"/>
+                    <Label Text="3 (Üç)" TextColor="Red" FontSize="Medium"/>
+                </StackLayout>
+                        </StackLayout>
+                    </Grid>
+                </Frame>
+
+
+            </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

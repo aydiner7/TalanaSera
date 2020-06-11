@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:forms="clr-namespace:Xamarin.RangeSlider.Forms;assembly=Xamarin.RangeSlider.Forms"
+             mc:Ignorable="d"
+             x:Class="Sera.SeraAyar">
+    <ContentPage.Content>
+        <StackLayout x:Name="icerik">
+            <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand">
+                <StackLayout>
+                    <Label  x:Name="deger" Grid.Row="0" VerticalOptions="Center" HorizontalOptions="Center" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="20" FontAttributes="Bold" TextColor="#691616" Text="0"/>
+                    <Slider x:Name="slider" IsEnabled="True" ValueChanged="Slider_ValueChanged" Value="21"  WidthRequest="260" VerticalOptions="Center" HorizontalOptions="Center" ThumbColor="#A93C3B" MaximumTrackColor="Green" MinimumTrackColor="Red" Minimum="0" Maximum="45"/>
+                    <Label x:Name="SeraCumle1" Text="→Seranızın hedef sıcaklık değerini belirleyerek, çalıştırabilirsiniz." FontSize="12" Opacity="0.5" TextColor="#571B1B" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
+
+                    <StackLayout VerticalOptions="End" HorizontalOptions="StartAndExpand" HeightRequest="2" WidthRequest="400" BackgroundColor="#802C2C" Opacity="0.1" Margin="0,35,0,0"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label x:Name="lowerc" WidthRequest="40" VerticalOptions="Center" HorizontalOptions="Start" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="20" FontAttributes="Bold" TextColor="#691616" Text="0"/>
+                    <forms:RangeSlider x:Name="RangeSlider" WidthRequest="260" MinimumValue="0" MaximumValue="45" LowerValueChanged="RangeSlider_LowerValueChanged" UpperValueChanged="RangeSlider_UpperValueChanged" LowerValue="1" UpperValue="45" StepValue="1" StepValueContinuously="False" VerticalOptions="Center" TextSize="15" />
+                    <Label x:Name="upperc" WidthRequest="40" VerticalOptions="Center" HorizontalOptions="End" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="20" FontAttributes="Bold" TextColor="#691616" Text="45"/>
+                </StackLayout>
+                <StackLayout>
+                    <Label x:Name="SeraCumle2" Text="→Sistemin kendini kontrol edebilmesi için ısı aralığını belirleyiniz." FontSize="12" Opacity="0.5" TextColor="#571B1B" HorizontalOptions="Center" VerticalTextAlignment="Center" />
+                    <Label IsVisible="False" Text="↑ÖNEMLİ : Besin sağlığı açısından önerimiz 21°C - 28°C arasıdır." FontSize="12" Opacity="0.8" Margin="0,15,0,0" TextColor="#571B1B" HorizontalOptions="Center" VerticalTextAlignment="Center" />
+                    <StackLayout VerticalOptions="Center" HorizontalOptions="StartAndExpand" HeightRequest="2" WidthRequest="400" BackgroundColor="#802C2C" Opacity="0.1" Margin="0,20,0,0"/>
+                </StackLayout>
+                <StackLayout>
+                    <Label Text="Sera Anlık Bilgileri" FontSize="30" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#881616" Opacity="0.8"/>
+                    <StackLayout Orientation="Horizontal" WidthRequest="400" HeightRequest="100">
+
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100" Margin="0,20">
+                            <Label Text="Sıcaklık" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#A38888"/>
+                            <Label x:Name="dDerece" Text="27 °C" VerticalOptions="End" HorizontalOptions="Center" TextColor="#593939" FontAttributes="Bold"/>
+                        </StackLayout>
+                        <StackLayout VerticalOptions="Start" HorizontalOptions="End" WidthRequest="2" HeightRequest="40" BackgroundColor="#802C2C" Margin="0,20"/>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100" Margin="0,20">
+                            <Label Text="Hava" VerticalOptions="Start" HorizontalOptions="Center" TextColor="#A38888"/>
+                            <Label x:Name="dHava" Text="147 PM" VerticalOptions="End" HorizontalOptions="Center" TextColor="#593939" FontAttributes="Bold"/>
+                        </StackLayout>
+                        <StackLayout VerticalOptions="Start" HorizontalOptions="End" WidthRequest="2" HeightRequest="40" BackgroundColor="#802C2C" Margin="0,20"/>
+
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100" Margin="0,20">
+                            <Label Text="Nem" VerticalOptions="Start" HorizontalOptions="Center" TextColor="#A38888"/>
+                            <Label x:Name="dNem" Text="25 %" VerticalOptions="End" HorizontalOptions="Center" TextColor="#593939" FontAttributes="Bold"/>
+                        </StackLayout>
+                        <StackLayout VerticalOptions="Start" HorizontalOptions="End" WidthRequest="2" HeightRequest="40" BackgroundColor="#802C2C" Margin="0,20"/>
+
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100" Margin="0,20">
+                            <Label Text="Işık" VerticalOptions="Start" HorizontalOptions="Center" TextColor="#A38888"/>
+                            <Label x:Name="dIsik" Text="481 CD" VerticalOptions="End" HorizontalOptions="Center" TextColor="#593939" FontAttributes="Bold"/>
+                        </StackLayout>
+
+                    </StackLayout>
+
+                    <Button Clicked="Button_Clicked" Text="Onayla" CornerRadius="15" Margin="100,15" Padding="8" Opacity="0.6" BorderColor="#881616" BorderWidth="3" BackgroundColor="#A39E9E" FontSize="15" FontAttributes="Bold" TextColor="White"></Button>
+
+                </StackLayout>
+
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
