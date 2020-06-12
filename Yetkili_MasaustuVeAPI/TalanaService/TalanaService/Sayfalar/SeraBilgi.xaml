@@ -1,0 +1,63 @@
+﻿<Page x:Class="TalanaService.Sayfalar.SeraBilgi"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TalanaService.Sayfalar"
+      xmlns:Menuler="clr-namespace:TalanaService.Nesneler"
+      ShowsNavigationUI="False"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="800"
+      Title="SeraBilgi">
+
+    <Grid>
+        <ScrollViewer>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
+                    <Menuler:BilgiPanel x:Name="sn" HorizontalAlignment="Left" Margin="20" baslik="Sicaklik / Nem" icerik="12/1200" bilgi="Sorun yok" />
+                    <Menuler:BilgiPanel x:Name="hi" HorizontalAlignment="Left" Margin="20" baslik="Hava / Isık" icerik="40/200010" bilgi="Sorun yok" />
+                </StackPanel>
+                <TabControl Height="500" Width="800">
+                    <TabItem Header="Isı Nem">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="gridIsiNem" ItemsSource="{Binding IsiNemVeri}" Margin="10,10,25,10"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="Toprak Nem">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="gridToprakNem" ItemsSource="{Binding ToprakNemVeri}" Margin="10,10,25,10"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="Su Motoru">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="gridSuMotor" ItemsSource="{Binding SuMotorVeri}" Margin="10,10,25,10"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="Hava Kalite">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="gridHavaKalite" ItemsSource="{Binding HavaKaliteVeri}" Margin="10,10,25,10"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="Fan">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="gridFan" ItemsSource="{Binding FanVeri}" Margin="10,10,25,10"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="Işık">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="gridIsik" ItemsSource="{Binding IsikVeri}" Margin="10,10,25,10"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="İlaçlama">
+                        <Grid Background="#FFE5E5E5">
+                            <DataGrid x:Name="gridIlaclama" ItemsSource="{Binding IlaclamaVeri}" Margin="10,10,25,10"/>
+                        </Grid>
+                    </TabItem>
+                    
+                </TabControl>
+
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

@@ -1,0 +1,52 @@
+﻿<UserControl x:Class="TalanaService.Nesneler.SutunGrafik"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TalanaService.Nesneler"
+             Loaded="UserControl_Loaded"
+             mc:Ignorable="d" Height="303.832" Width="552.007">
+    <Grid>
+
+
+        <Rectangle Height="300" Fill="#ffa21e" RadiusX="20" RadiusY="20" Margin="-2,2,0,0" HorizontalAlignment="Left" Width="554" VerticalAlignment="Top"/>
+        <Rectangle x:Name="SEkim" Height="0" Fill="White" Margin="419,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="20"/>
+        <Rectangle x:Name="SKasim" Width="20" Fill="White" Margin="457,0,0,87" HorizontalAlignment="Left" Height="0" VerticalAlignment="Bottom"/>
+        <Rectangle x:Name="SOcak" Width="20" Height="0" Fill="White" Margin="83,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Rectangle x:Name="SSubat" Width="20" Height="0" Fill="White" Margin="119,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Rectangle x:Name="SMart" Width="20" Height="0" Fill="White" Margin="155,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Rectangle x:Name="SMayis" Width="20" Height="0" Fill="White" Margin="229,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Rectangle x:Name="SHaziran" Width="20" Height="0" Fill="White" Margin="267,0,0,87" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+        <Rectangle x:Name="STemmuz" Width="20" Height="0" Fill="White" Margin="305,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Rectangle x:Name="SAgustos" Width="20" Height="0" Fill="White" Margin="343,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Rectangle x:Name="SEylul" Width="20" Height="0" Fill="White" Margin="381,0,0,87" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+        <Rectangle x:Name="SNisan" Width="20" Height="0" Fill="White" Margin="192,0,0,87" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Rectangle x:Name="SAralik" Width="20" Fill="White" Margin="495,0,0,87" HorizontalAlignment="Left" Height="0" VerticalAlignment="Bottom"/>
+
+        <Label x:Name="Sa6" HorizontalContentAlignment="Right" Content="200" Foreground="White" Margin="0,1,489,271" FontWeight="DemiBold" FontSize="20"/>
+        <Label x:Name="Sa5" HorizontalContentAlignment="Right" Content="160" Foreground="White" Margin="0,39,489,233" FontWeight="DemiBold" FontSize="20"/>
+        <Label x:Name="Sa4" HorizontalContentAlignment="Right" Content="120" Foreground="White" Margin="0,77,489,195" FontWeight="DemiBold" FontSize="20"/>
+        <Label x:Name="Sa3" HorizontalContentAlignment="Right" Content="70" Foreground="White" Margin="0,115,489,157" FontWeight="DemiBold" FontSize="20"/>
+        <Label x:Name="Sa2" HorizontalContentAlignment="Right" Content="40" Foreground="White" Margin="0,153,489,119" FontWeight="DemiBold" FontSize="20"/>
+        <Label x:Name="Sa1" HorizontalContentAlignment="Right" Content="15" Foreground="White" Margin="0,191,489,81" FontWeight="DemiBold" FontSize="20"/>
+        <Label HorizontalContentAlignment="Right" Content="O" Foreground="White" Margin="83,241,449,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="Ş" Foreground="White" Margin="119,241,413,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="M" Foreground="White" Margin="144,241,377,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="N" Foreground="White" Margin="192,241,340,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="M" Foreground="White" Margin="217,241,302,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="H" Foreground="White" Margin="267,241,265,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="T" Foreground="White" Margin="305,241,227,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="A" Foreground="White" Margin="343,241,189,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="E" Foreground="White" Margin="381,241,151,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="E" Foreground="White" Margin="419,241,113,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="K" Foreground="White" Margin="457,241,75,31" FontWeight="DemiBold" FontSize="18"/>
+        <Label HorizontalContentAlignment="Right" Content="A" Foreground="White" Margin="495,241,37,31" FontWeight="DemiBold" FontSize="18"/>
+
+        <Rectangle Height="1" Fill="White" Margin="68,17,37,286"/>
+        <Rectangle Height="1" Fill="White" Margin="68,56,37,247"/>
+        <Rectangle Height="1" Fill="White" Margin="68,92,37,211"/>
+        <Rectangle Height="1" Fill="White" Margin="68,131,37,172"/>
+        <Rectangle Height="1" Fill="White" Margin="68,170,37,133"/>
+        <Rectangle Height="1" Fill="White" Margin="68,209,37,94"/>
+    </Grid>
+</UserControl>

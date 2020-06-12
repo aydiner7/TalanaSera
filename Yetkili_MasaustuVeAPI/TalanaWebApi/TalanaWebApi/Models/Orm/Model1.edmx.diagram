@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7895007705ef4f2c8d67146eeb32b97a" Name="Diagram1">
+        <EntityTypeShape EntityType="TalanaModel.BildirimDurum" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TalanaModel.DisOrtam" Width="1.5" PointX="6" PointY="30.25" />
+        <EntityTypeShape EntityType="TalanaModel.DisOrtamLog" Width="1.5" PointX="8.25" PointY="41.75" />
+        <EntityTypeShape EntityType="TalanaModel.DisOrtamSera" Width="1.5" PointX="8.25" PointY="21.25" />
+        <EntityTypeShape EntityType="TalanaModel.Fan" Width="1.5" PointX="3" PointY="12.25" />
+        <EntityTypeShape EntityType="TalanaModel.FanLog" Width="1.5" PointX="5.25" PointY="0.875" />
+        <EntityTypeShape EntityType="TalanaModel.FanSera" Width="1.5" PointX="5.25" PointY="12.25" />
+        <EntityTypeShape EntityType="TalanaModel.HavaKalite" Width="1.5" PointX="6" PointY="27.25" />
+        <EntityTypeShape EntityType="TalanaModel.HavaKaliteLog" Width="1.5" PointX="8.25" PointY="38.25" />
+        <EntityTypeShape EntityType="TalanaModel.HavaKaliteSera" Width="1.5" PointX="8.25" PointY="18.25" />
+        <EntityTypeShape EntityType="TalanaModel.HavaNemIsi" Width="1.5" PointX="6" PointY="33.25" />
+        <EntityTypeShape EntityType="TalanaModel.HavaNemIsiLog" Width="1.5" PointX="8.25" PointY="34.125" />
+        <EntityTypeShape EntityType="TalanaModel.HavaNemIsiSera" Width="1.5" PointX="8.25" PointY="24.25" />
+        <EntityTypeShape EntityType="TalanaModel.Ilac" Width="1.5" PointX="3.75" PointY="4.75" />
+        <EntityTypeShape EntityType="TalanaModel.IlacMotor" Width="1.5" PointX="6" PointY="8.625" />
+        <EntityTypeShape EntityType="TalanaModel.IlacMotorLog" Width="1.5" PointX="8.25" PointY="6.5" />
+        <EntityTypeShape EntityType="TalanaModel.IlacMotorTankSera" Width="1.5" PointX="8.25" PointY="14" />
+        <EntityTypeShape EntityType="TalanaModel.IlacTank" Width="1.5" PointX="6" PointY="4.625" />
+        <EntityTypeShape EntityType="TalanaModel.Isik" Width="1.5" PointX="9" PointY="30.25" />
+        <EntityTypeShape EntityType="TalanaModel.IsikLog" Width="1.5" PointX="11.25" PointY="31.25" />
+        <EntityTypeShape EntityType="TalanaModel.IsikSera" Width="1.5" PointX="11.25" PointY="21.25" />
+        <EntityTypeShape EntityType="TalanaModel.IsikSiddet" Width="1.5" PointX="3" PointY="30.25" />
+        <EntityTypeShape EntityType="TalanaModel.IsikSiddetLog" Width="1.5" PointX="5.25" PointY="41.25" />
+        <EntityTypeShape EntityType="TalanaModel.IsikSiddetSera" Width="1.5" PointX="5.25" PointY="24.25" />
+        <EntityTypeShape EntityType="TalanaModel.Kullanicilar" Width="1.5" PointX="0.75" PointY="19.625" />
+        <EntityTypeShape EntityType="TalanaModel.KullaniciLog" Width="1.5" PointX="3" PointY="22.125" />
+        <EntityTypeShape EntityType="TalanaModel.SeraKullanici" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="TalanaModel.Seralar" Width="1.5" PointX="3" PointY="17.25" />
+        <EntityTypeShape EntityType="TalanaModel.SeraUrun" Width="1.5" PointX="5.25" PointY="16" />
+        <EntityTypeShape EntityType="TalanaModel.SuMotor" Width="1.5" PointX="9" PointY="27.25" />
+        <EntityTypeShape EntityType="TalanaModel.SuMotorLog" Width="1.5" PointX="11.25" PointY="27" />
+        <EntityTypeShape EntityType="TalanaModel.SuMotorSera" Width="1.5" PointX="11.25" PointY="18.25" />
+        <EntityTypeShape EntityType="TalanaModel.ToprakNem" Width="1.5" PointX="9" PointY="10.25" />
+        <EntityTypeShape EntityType="TalanaModel.ToprakNemLog" Width="1.5" PointX="11.25" PointY="10.25" />
+        <EntityTypeShape EntityType="TalanaModel.ToprakNemSera" Width="1.5" PointX="11.25" PointY="15.25" />
+        <EntityTypeShape EntityType="TalanaModel.Urunler" Width="1.5" PointX="3" PointY="26.125" />
+        <EntityTypeShape EntityType="TalanaModel.UrunOzellik" Width="1.5" PointX="5.25" PointY="36.125" />
+        <EntityTypeShape EntityType="TalanaModel.AnalizGrafikViews" Width="1.5" PointX="7.75" PointY="0.75" />
+        <AssociationConnector Association="TalanaModel.FK_DisOrtamLog_DisOrtam" />
+        <AssociationConnector Association="TalanaModel.FK_DisOrtamSera_DisOrtam" />
+        <AssociationConnector Association="TalanaModel.FK_DisOrtamSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_FanLog_Fan" />
+        <AssociationConnector Association="TalanaModel.FK_FanSera_Fan" />
+        <AssociationConnector Association="TalanaModel.FK_FanSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_HavaKaliteLog_HavaKalite" />
+        <AssociationConnector Association="TalanaModel.FK_HavaKaliteSera_HavaKalite" />
+        <AssociationConnector Association="TalanaModel.FK_HavaKaliteSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_HavaNemIsiLog_HavaNemIsi" />
+        <AssociationConnector Association="TalanaModel.FK_HavaNemIsiSera_HavaNemIsi" />
+        <AssociationConnector Association="TalanaModel.FK_HavaNemIsiSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_IlacTank_Ilac" />
+        <AssociationConnector Association="TalanaModel.FK_IlacMotorLog_IlacMotor" />
+        <AssociationConnector Association="TalanaModel.FK_IlacMotorTankSera_IlacMotor" />
+        <AssociationConnector Association="TalanaModel.FK_IlacMotorTankSera_IlacTank" />
+        <AssociationConnector Association="TalanaModel.FK_IlacMotorTankSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_IsikLog_Isik" />
+        <AssociationConnector Association="TalanaModel.FK_IsikSera_Isik" />
+        <AssociationConnector Association="TalanaModel.FK_IsikSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_IsikSiddetLog_IsikSiddet" />
+        <AssociationConnector Association="TalanaModel.FK_IsikSiddetSera_IsikSiddet" />
+        <AssociationConnector Association="TalanaModel.FK_IsikSiddetSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_KullaniciLog_Kullanicilar" />
+        <AssociationConnector Association="TalanaModel.FK_Seralar_Kullanicilar" />
+        <AssociationConnector Association="TalanaModel.FK_SeraUrun_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_SuMotorSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_ToprakNemSera_Seralar" />
+        <AssociationConnector Association="TalanaModel.FK_SeraUrun_Urunler" />
+        <AssociationConnector Association="TalanaModel.FK_SuMotorLog_SuMotor" />
+        <AssociationConnector Association="TalanaModel.FK_SuMotorSera_SuMotor" />
+        <AssociationConnector Association="TalanaModel.FK_ToprakNemLog_ToprakNem" />
+        <AssociationConnector Association="TalanaModel.FK_ToprakNemSera_ToprakNem" />
+        <AssociationConnector Association="TalanaModel.FK_UrunOzellik_Urunler" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

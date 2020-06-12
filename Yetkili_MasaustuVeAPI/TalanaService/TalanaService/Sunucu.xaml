@@ -1,0 +1,36 @@
+﻿<Window x:Class="TalanaService.Sunucu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TalanaService"
+        mc:Ignorable="d"
+        Title="Sunucu" Height="320" Width="420.62" WindowState="Normal" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="389*"/>
+        </Grid.RowDefinitions>
+        <Rectangle Height="50" Grid.Row="0" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2281D1"/>
+                    <GradientStop Color="#FF34268A" Offset="1"/>
+                    <GradientStop Color="#FF33288B" Offset="0.546"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label Content="Sunucu Ayar Paneli" Foreground="White" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="20 6 0 0"/>
+        <Image Grid.Row="0" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="10" Height="30" MouseLeftButtonDown="Image_MouseLeftButtonDown" Width="30" Source="Assets/PencereKapat.png" Cursor="Hand"/>
+        <StackPanel Height="235" VerticalAlignment="top" Margin="15" Grid.Row="1">
+            <TextBox x:Name="Sunucutxt" Margin="0,10" materialDesign:HintAssist.Hint="Sunucu" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="18"/>
+            <TextBox x:Name="Kaditxt" Margin="0,10" materialDesign:HintAssist.Hint="Kullanici Adı" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="18"/>
+            <PasswordBox x:Name="sifretxt" Margin="0,10" materialDesign:HintAssist.Hint="Şifre" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" FontFamily="Champagne &amp; Limousines" FontSize="18"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Width="150" HorizontalAlignment="Right"  x:Name="TestBtn" Click="TestBtn_Click" VerticalAlignment="Center"  Content="Test Et" Margin="0,0,30,0"/>
+                <Button Width="150" HorizontalAlignment="Right"  x:Name="KaydetBtn" Click="KaydetBtn_Click" VerticalAlignment="Center"  Content="Kaydet"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

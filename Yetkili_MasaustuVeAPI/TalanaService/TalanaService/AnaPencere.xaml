@@ -1,0 +1,72 @@
+﻿<Window x:Class="TalanaService.AnaPencere"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TalanaService"
+        xmlns:Menuler="clr-namespace:TalanaService.Nesneler"
+        mc:Ignorable="d"
+        Title="AnaPencere" Height="800" Width="1300" WindowStartupLocation="CenterScreen" WindowStyle="None" WindowState="Maximized">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="107*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background="#f3f3f3" Panel.ZIndex="99999">
+            <Grid.Effect>
+                <DropShadowEffect Color="Black" ShadowDepth="6" BlurRadius="20"  Direction="0" Opacity=".6"/>
+            </Grid.Effect>
+            <Image Source="Assets/Logo.png" MouseLeftButtonDown="Image_MouseLeftButtonDown" Margin="0,10,0,0" Height="80" VerticalAlignment="Top"/>
+            <StackPanel Height="1" Background="Black" Width="260" Opacity=".1" HorizontalAlignment="Center" Margin="20,100,20,0" VerticalAlignment="Top">
+                <StackPanel.Effect>
+                    <DropShadowEffect Color="Black" ShadowDepth="10" BlurRadius="10"  Direction="90" Opacity="1"/>
+                </StackPanel.Effect>
+            </StackPanel>
+
+            <ScrollViewer HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Auto" Margin="0,148,0,56">
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Image VerticalAlignment="Center"  Cursor="Hand" x:Name="UserBtn" MouseLeftButtonDown="UserBtn_MouseLeftButtonDown" Source="Assets/User.png" Width="40" HorizontalAlignment="Right" Margin="0,0,30,10"/>
+
+                        <Image  Cursor="Hand" x:Name="SeraEkleBtn" MouseLeftButtonDown="SeraEkle_MouseLeftButtonDown" Source="Assets/Ekle.png" Width="40" HorizontalAlignment="Right" Margin="0,0,30,10"/>
+                        
+                    </StackPanel>
+                    <StackPanel x:Name="SeraListesi">
+                        
+                    </StackPanel>    
+                </StackPanel>
+            </ScrollViewer>
+
+            <StackPanel Background="Black" Opacity=".1" Margin="20,0,20,50" Height="1" VerticalAlignment="Bottom">
+                <StackPanel.Effect>
+                    <DropShadowEffect Color="Black" ShadowDepth="10" BlurRadius="10"  Direction="-90" Opacity="1"/>
+                </StackPanel.Effect>
+            </StackPanel>
+            <Label Content="Versiyon : 1.0.0" Margin="20,0,20,15" Height="24" HorizontalContentAlignment="Center" VerticalAlignment="Bottom"/>
+        </Grid>
+        <Grid Grid.Column="1" Background="#f3f3f3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="90"/>
+                <RowDefinition Height="397*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Label x:Name="degisenBaslik" Content="Elma Seram" Opacity=".6" Foreground="Black" FontSize="25" VerticalContentAlignment="Center" Margin="30,0,0,0"/>
+                <Border CornerRadius="15" Background="LightGray" Padding="20 0" Margin="0,10,30,10" HorizontalAlignment="Right">
+                    <Grid>
+                        <Rectangle Height="30" Width="30" RadiusX="30" RadiusY="30" HorizontalAlignment="Left">
+                            <Rectangle.Fill>
+                                <ImageBrush ImageSource="Assets/profil.jpg" />
+                            </Rectangle.Fill>
+                        </Rectangle>
+                        <Label Content="Ömer Faruk ARSLAN" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="40,0,0,0" FontSize="14"/>
+                    </Grid>
+                </Border>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Frame x:Name="degisenPanel">
+                    
+                </Frame>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
